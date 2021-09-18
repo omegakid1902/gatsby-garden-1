@@ -3,7 +3,6 @@ title: ~Âu Lạc
 tags:
   - '#created/2021/Jul/24'
   - '#permanent/concept'
-aliases: 
 publish: True
 ---
 # Âu Lạc

@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Jul/12'
   - '#seed🥜'
   - '#permanent/concept'
-aliases:
-  - 
 publish: True
 ---
 # Nhà Hậu Lê

@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Aug/11'
   - '#garden🏡'
   - '#permanent/concept'
-aliases:
-  - 
 publish: False
 ---
 # Sách đã đọc

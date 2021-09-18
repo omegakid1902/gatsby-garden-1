@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Jul/24'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
 publish: True
 ---
 # Đền thờ An Dương Vương ở ngoại thành Hà Nội

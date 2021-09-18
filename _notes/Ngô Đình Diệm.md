@@ -4,8 +4,6 @@ tags:
   - '#created/2020/Dec/12'
   - '#seed🥜'
   - '#permanent/concept'
-aliases:
-  - 
 publish: True
 ---
 # Ngô Đình Diệm

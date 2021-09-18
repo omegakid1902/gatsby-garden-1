@@ -3,7 +3,6 @@ title: "Chiến tranh Nguyên Mông - Đại Việt lần 1"
 tags:
   - '#created/2021/Aug/17'
   - '#MOC'
-aliases: 
 publish: True
 ---
 # Chiến tranh Nguyên Mông - Đại Việt lần 1

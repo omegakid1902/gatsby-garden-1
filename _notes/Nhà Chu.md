@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/nation'
-aliases:
-  - 
 publish: True
 ---
 # Nhà Chu

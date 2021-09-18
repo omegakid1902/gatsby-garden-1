@@ -5,7 +5,6 @@ tags:
   - '#permanent/concept'
   - '#flashcards'
 aliases: 
-  - 
   - Tiêu Thổ
 publish: True
 ---

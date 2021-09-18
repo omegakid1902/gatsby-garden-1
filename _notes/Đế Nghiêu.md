@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Sep/05'
   - '#seed🥜'
   - '#permanent/people'
-aliases:
-  - 
 publish: True
 ---
 # Đế Nghiêu

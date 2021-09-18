@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Jun/22'
   - '#garden🏡'
   - '#permanent/concept'
-aliases:
-  - 
 publish: True
 ---
 # Lịch Sử Việt Nam

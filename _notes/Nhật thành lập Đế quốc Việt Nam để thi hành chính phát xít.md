@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Jul/17'
   - '#seed🥜'
   - '#permanent/fact'
-aliases:
-  - 
 publish: True
 ---
 # Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít

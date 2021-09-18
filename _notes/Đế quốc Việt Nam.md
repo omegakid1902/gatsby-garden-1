@@ -4,8 +4,6 @@ tags:
   - '#created/2021/Jul/11'
   - '#seed🥜'
   - '#permanent/nation'
-aliases:
-  - 
 publish: True
 ---
 # Đế quốc Việt Nam
