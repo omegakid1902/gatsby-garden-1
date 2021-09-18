@@ -1,12 +1,3 @@
----
-title: Khổng Tử từng làm quan nước Lỗ
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Khổng Tử từng làm quan nước Lỗ
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Vịnh Hạ Long
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - 'NA'
----
 # Vịnh Hạ Long
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: LDH cholesterol
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - low density lipoprotein cholesterol
-  - Cholesterol xấu
----
 # LDL cholesterol
 
 ## Notes:

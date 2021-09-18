@@ -1,12 +1,3 @@
----
-title: ❕ Sống một lần là một sự giải thoát cho con người
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Sống một lần là một giải thoát của con người
 
 ## Notes:

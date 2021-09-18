@@ -1,12 +1,3 @@
----
-title: Nhà nguyện Sistine
-tags:
-  - '#created/2020/Nov/07'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - Sistine Chapel
----
 # Nhà nguyện Sistine
 
 ## Notes:

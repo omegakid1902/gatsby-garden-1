@@ -1,12 +1,3 @@
----
-title: Phong thần diễn nghĩa mở đầu bằng việc vua Trụ đến miếu thờ Nữ Oa đã viết một bài thơ bất kính
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Phong thần diễn nghĩa mở đầu bằng việc vua Trụ đến miếu thờ Nữ Oa đã viết một bài thơ bất kính
 
 ## Notes:

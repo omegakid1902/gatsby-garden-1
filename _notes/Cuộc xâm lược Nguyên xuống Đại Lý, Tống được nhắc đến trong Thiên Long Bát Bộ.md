@@ -1,9 +1,3 @@
----
-title: Cuộc xâm lược Nguyên xuống Đại Lý, Tống được nhắc đến trong Thiên Long Bát Bộ
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/fact'
----
 # Cuộc xâm lược Nguyên xuống Đại Lý, Tống được nhắc đến trong Thiên Long Bát Bộ
 
 ## Notes:

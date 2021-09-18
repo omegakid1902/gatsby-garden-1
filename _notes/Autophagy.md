@@ -1,12 +1,3 @@
----
-title: Autophagy
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
----
 # autophagy
 
 ## Notes:

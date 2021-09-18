@@ -1,12 +1,3 @@
----
-title: Nhịn ăn lâu hơn 3 ngày có thể làm chậm quá trình trao đổi chất
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Nhịn ăn lâu hơn 3 ngày có thể làm chậm quá trình trao đổi chất
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Tam Vương Trung Hoa
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Tam Vương
----
 # Tam Vương Trung Hoa
 
 ## Notes:

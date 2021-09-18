@@ -1,12 +1,3 @@
----
-title: Sau khi đánh đuổi nhà Hán, Hai Bà Trưng lập tên nước là Lĩnh Nam
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Sau khi đánh đuổi nhà Hán, Hai Bà Trưng lập tên nước là Lĩnh Nam
 
 ## Notes:

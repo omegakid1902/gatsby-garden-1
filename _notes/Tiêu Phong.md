@@ -1,11 +1,3 @@
----
-title: Tiêu Phong
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Tiêu Phong, Kiều Phong]
----
 # Tiêu Phong
 
 ## Definition

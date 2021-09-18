@@ -1,11 +1,3 @@
----
-title: Nhà Đại Lý
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Nước Đại Lý]
----
 # Nước Đại Lý
 
 ## Definition

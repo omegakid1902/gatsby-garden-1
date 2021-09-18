@@ -1,13 +1,3 @@
----
-title: Đức Maria
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Đức Mẹ
-  - Mẹ Maria
----
 # Đức Maria
 
 ## Notes:

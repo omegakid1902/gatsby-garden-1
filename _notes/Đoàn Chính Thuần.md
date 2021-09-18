@@ -1,11 +1,3 @@
----
-title: Đoàn Chính Thuần
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Đoàn Chính Thuần]
----
 # Đoàn Chính Thuần
 
 ## Definition

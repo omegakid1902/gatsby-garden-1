@@ -1,12 +1,3 @@
----
-title: Giả Bảo Ngọc và Lâm Đại Ngọc là hai anh em họ
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Giả Bảo Ngọc và Lâm Đại Ngọc là hai anh em họ
 
 ## Notes:

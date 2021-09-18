@@ -1,12 +1,3 @@
----
-title: Huyết áp
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Huyết áp
----
 # Huyết áp
 
 ## Notes:

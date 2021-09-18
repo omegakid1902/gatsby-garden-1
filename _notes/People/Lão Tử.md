@@ -1,10 +1,3 @@
----
-title: Lão Tử
-tags:
-  - '#created/2021/Jul/4'
-  - '#permanent/people'
-  - '#flashcards'
----
 # Lão Tử
 
 

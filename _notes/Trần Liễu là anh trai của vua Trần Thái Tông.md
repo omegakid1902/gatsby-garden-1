@@ -1,12 +1,3 @@
----
-title: Trần Liễu là anh trai của vua Trần Thái Tông
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trần Liễu là anh trai của vua Trần Thái Tông
 
 ## Notes:

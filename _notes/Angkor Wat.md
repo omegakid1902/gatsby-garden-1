@@ -1,12 +1,3 @@
----
-title: Angkor Wat
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - 'NA'
----
 # Angkor Wat
 
 ## Notes:

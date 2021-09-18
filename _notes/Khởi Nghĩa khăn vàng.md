@@ -1,14 +1,3 @@
----
-title: Khởi Nghĩa khăn vàng
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Khởi Nghĩa khăn vàng
-  - Loạn khăn vàng
-  - Loạn Hoàng Cân
----
 # Khởi Nghĩa khăn vàng
 
 ## Notes:

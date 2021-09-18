@@ -1,12 +1,3 @@
----
-title: Ngữ hệ Ấn-Âu
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Ngữ hệ Ấn-Âu
----
 # Ngữ hệ Ấn-Âu
 
 ## Notes:

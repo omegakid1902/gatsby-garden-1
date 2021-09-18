@@ -1,12 +1,3 @@
----
-title: Node package manager
-tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - npm
----
 # Node package manager
 
 ## Notes:

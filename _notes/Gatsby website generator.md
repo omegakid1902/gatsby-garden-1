@@ -1,12 +1,3 @@
----
-title: Gatsby website generator
-tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
----
 # Gatsby website generator
 
 ## Notes:

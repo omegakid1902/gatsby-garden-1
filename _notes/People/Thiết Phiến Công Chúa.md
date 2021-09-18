@@ -1,12 +1,3 @@
----
-title: Thiết Phiến Công Chúa
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Thiết Phiến Công Chúa
 
 ## Notes:

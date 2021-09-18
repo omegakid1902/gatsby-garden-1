@@ -1,12 +1,3 @@
----
-title: Khủng hoảng hiện sinh
-tags:
-  - '#created/2021/Jan/07'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Existential Crisis
----
 # Existential Crisis - Khủng hoảng hiện sinh
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Chu Nguyên Chương
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Chu Nguyên Chương
 
 ## Notes:

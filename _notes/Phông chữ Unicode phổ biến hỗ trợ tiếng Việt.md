@@ -1,12 +1,3 @@
----
-title: Phông chữ Unicode phổ biến hỗ trợ tiếng Việt
-tags:
-  - '#created/2021/Aug/31'
-  - '#seeding🌱'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Phông chữ Unicode phổ biến hỗ trợ tiếng Việt
 
 ## Notes:

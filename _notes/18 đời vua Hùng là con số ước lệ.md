@@ -1,12 +1,3 @@
----
-title: 18 đời vua Hùng là con số ước lệ
-tags:
-  - '#created/2021/Aug/26'
-  - '#🥜'
-  - '#permanent/concept'
-aliases:
-  - 18 đời vua Hùng là con số ước lệ
----
 # 18 đời vua Hùng là con số ước lệ
 
 ## Notes:

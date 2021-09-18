@@ -1,12 +1,3 @@
----
-title: ĐGH Gioan Phaolo II xin lỗi Chính thống giáo về quân thập tự cướp phá Hagia Sophia
-tags:
-  - '#created/2020/Dec/24'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # ĐGH Gioan Phaolo II xin lỗi Chính thống giáo về quân thập tự cướp phá Hagia Sophia
 
 ## Notes:

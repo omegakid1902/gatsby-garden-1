@@ -1,13 +1,3 @@
----
-title: Đàng Ngoài
-tags:
-  - '#created/2021/Jul/14'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Đàng Ngoài
-publish: True
----
 # Đàng Ngoài
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Intermittent Fasting
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Nhịn ăn cách quãng
----
 # Intermittent Fasting
 
 ## Notes:

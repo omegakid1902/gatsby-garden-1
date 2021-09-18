@@ -1,13 +1,3 @@
----
-title: Nhà Hạ
-tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/nation'
-aliases:
-  - 'NA'
-publish: True
----
 # Nhà Hạ
 
 ## Notes:

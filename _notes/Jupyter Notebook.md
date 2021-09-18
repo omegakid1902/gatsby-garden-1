@@ -1,12 +1,3 @@
----
-title: Jupyter Notebook
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Jupyter Notebook
----
 # Jupyter Notebook
 
 ## Notes:

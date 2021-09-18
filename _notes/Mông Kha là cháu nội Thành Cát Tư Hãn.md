@@ -1,10 +1,3 @@
----
-title: Mông Kha là cháu nội Thành Cát Tư Hãn
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/fact'
-  - '#flashcards'
----
 # Mông Kha là cháu nội Thành Cát Tư Hãn
 
 ## Notes

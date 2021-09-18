@@ -1,13 +1,3 @@
----
-title: macOS Catalina
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - macOS Catalina
-  - Catalina
----
 # macOS Catalina
 
 ## Notes:

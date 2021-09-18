@@ -1,12 +1,3 @@
----
-title: Thần Nông
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Thần Nông
 
 ## Notes:

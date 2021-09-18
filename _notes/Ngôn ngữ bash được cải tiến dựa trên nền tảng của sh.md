@@ -1,12 +1,3 @@
----
-title: Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Ngôn ngữ bash được cải tiến dựa trên nền tảng của sh
 
 ## Notes:

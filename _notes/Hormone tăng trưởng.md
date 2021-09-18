@@ -1,12 +1,3 @@
----
-title: Hormone tăng trưởng
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Growth Hormone
----
 # Hormone tăng trưởng
 
 ## Notes:

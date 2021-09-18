@@ -1,12 +1,3 @@
----
-title: Magnus Carlsen
-tags:
-  - '#created/2021/Aug/26'
-  - '#seeding🌱'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Magnus Carlsen
 
 ## Notes:

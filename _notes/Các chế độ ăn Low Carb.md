@@ -1,11 +1,3 @@
----
-title: Các chế độ ăn Low Carb
-tags:
-  - '#created/2021/Sep/03'
-  - '#garden🏡'
-aliases:
-  - 'NA'
----
 # Các chế độ ăn Low Carb
 
 ## Notes:

@@ -1,14 +1,3 @@
----
-title: Nguyễn Hoàng
-tags:
-  - '#created/2021/Jul/12'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Chúa Tiên
-  - Nguyễn Thái Tổ
-publish: True
----
 # Nguyễn Hoàng
 
 ## Notes:

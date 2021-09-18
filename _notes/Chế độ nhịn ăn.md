@@ -1,12 +1,3 @@
----
-title: Chế độ nhịn ăn
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Chế độ nhịn ăn
----
 # Chế độ nhịn ăn
 
 ## Notes:

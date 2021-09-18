@@ -1,13 +1,3 @@
----
-title: Tiếng Sanskrit
-tags:
-  - '#created/2021/Jun/20'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Tiếng Phạn
-  - Bắc Phạn
----
 # Tiếng Sanskrit
 
 ## Notes:

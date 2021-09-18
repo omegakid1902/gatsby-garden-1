@@ -1,12 +1,3 @@
----
-title: Ngũ hổ tướng
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Ngũ hổ tướng
----
 # Ngũ hổ tướng
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Mặc Tử tên là Mặc Địch
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Mặc Tử tên là Mặc Địch
 
 ## Notes:

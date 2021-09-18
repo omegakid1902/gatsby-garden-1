@@ -1,12 +1,3 @@
----
-title: Tri thức Siêu Nghiệm
-tags:
-  - '#created/2020/Nov/05'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - transzendental
----
 # Tri thức Siêu Nghiệm
 
 ## Notes:

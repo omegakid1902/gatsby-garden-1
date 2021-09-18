@@ -1,12 +1,3 @@
----
-title: LSD trip
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
----
 # LSD trip
 
 ## Notes:

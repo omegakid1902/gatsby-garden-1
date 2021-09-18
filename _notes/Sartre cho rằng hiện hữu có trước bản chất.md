@@ -1,12 +1,3 @@
----
-title: Sartre cho rằng hiện hữu có trước bản chất
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Sartre cho rằng hiện hữu có trước bản chất
 
 ## Notes:

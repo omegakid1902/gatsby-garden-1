@@ -1,12 +1,3 @@
----
-title: Pháp trong từ pháp gia có nghĩa là pháp luật
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Pháp trong từ pháp gia có nghĩa là pháp luật
 
 ## Notes:

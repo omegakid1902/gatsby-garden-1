@@ -1,12 +1,3 @@
----
-title: Đế Tân
-tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/people'
-aliases:
-  - Trụ Vương
----
 # Trụ Vương
 
 ## Notes:

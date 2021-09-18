@@ -1,11 +1,3 @@
----
-title: Đại Hãn
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Đại Hãn, Khả Hãn]
----
 # Đại Hãn
 
 ## Definition

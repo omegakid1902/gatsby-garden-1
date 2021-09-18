@@ -1,12 +1,3 @@
----
-title: Nhà Lê
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Nhà Lê
----
 # Nhà Lê
 
 ## Notes:

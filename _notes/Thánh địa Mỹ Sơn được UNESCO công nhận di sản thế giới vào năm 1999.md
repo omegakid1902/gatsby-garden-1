@@ -1,12 +1,3 @@
----
-title: Thánh địa Mỹ Sơn được UNESCO công nhận di sản thế giới vào năm 1999
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Thánh địa Mỹ Sơn được UNESCO công nhận di sản thế giới vào năm 1999
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Trần Thánh Tông
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Trần Hoảng
----
 # Trần Thánh Tông
 
 ## Notes:

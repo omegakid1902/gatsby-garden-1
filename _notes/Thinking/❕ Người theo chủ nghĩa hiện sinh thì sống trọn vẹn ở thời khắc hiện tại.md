@@ -1,12 +1,3 @@
----
-title: ❕ Người theo chủ nghĩa hiện sinh thì sống trọn vẹn ở thời khắc hiện tại
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Người theo chủ nghĩa hiện sinh thì sống trọn vẹn ở thời khắc hiện tại
 
 ## Notes:

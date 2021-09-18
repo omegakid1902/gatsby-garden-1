@@ -1,13 +1,3 @@
----
-title: Trần Quang Khải
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Chiêu Minh Đại Vương
-publish: True
----
 # Trần Quang Khải
 
 ## Notes:

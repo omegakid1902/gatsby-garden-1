@@ -1,12 +1,3 @@
----
-title: Chất dự trữ trong tế bào nấm là glycogen
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Chất dự trữ trong tế bào nấm là glycogen
 
 ## Notes:

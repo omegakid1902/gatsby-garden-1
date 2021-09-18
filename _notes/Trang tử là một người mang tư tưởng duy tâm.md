@@ -1,12 +1,3 @@
----
-title: Trang tử là một người mang tư tưởng duy tâm
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trang tử là một người mang tư tưởng duy tâm
 
 ## Notes:

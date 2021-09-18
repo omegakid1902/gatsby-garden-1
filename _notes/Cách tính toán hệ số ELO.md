@@ -1,12 +1,3 @@
----
-title: Cách tính toán hệ số ELO
-tags:
-  - '#created/2021/Aug/26'
-  - '#🌱'
-  - '#permanent/concept'
-aliases:
-  - Cách tính toán hệ số ELO
----
 # Cách tính toán hệ số ELO
 
 ## Notes:

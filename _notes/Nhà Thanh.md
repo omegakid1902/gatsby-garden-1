@@ -1,13 +1,3 @@
----
-title: Nhà Thanh
-tags:
-  - '#created/2021/Aug/11'
-  - '#garden🏡'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
-publish: True
----
 # Nhà Thanh
 
 

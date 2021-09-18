@@ -1,11 +1,3 @@
----
-title: Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn
-tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/fact'
-  - '#seed🥜'
-  - '#flashcards'
----
 # Sử Trung Quốc có 2 nhà Hán cách nhau một thời gian ngắn
 
 ## Notes

@@ -1,12 +1,3 @@
----
-title: Huyết áp lớn nhất khi ở tim ở giai đoạn co để đẩy máu
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Huyết áp lớn nhất khi ở tim ở giai đoạn co để đẩy máu
 
 ## Notes:

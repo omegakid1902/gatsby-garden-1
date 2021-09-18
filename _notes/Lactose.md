@@ -1,11 +1,3 @@
----
-title: Lactose
-tags:
-  - '#created/2021/Aug/12'
-  - '#permanent/concept'
-  - '#notion'
-aliases: [Lactose]
----
 # Lactose
 
 ## Notes

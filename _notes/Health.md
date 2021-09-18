@@ -1,13 +1,3 @@
----
-title: 🏡 Health
-tags:
-  - '#created/2021/Sep/03'
-  - '#garden🏡'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
-publish: True
----
 # 🏡 Health
 
 ## Notes:

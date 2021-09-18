@@ -1,12 +1,3 @@
----
-title: Thành Thang
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Thương Thang
----
 # Thành Thang
 
 ## Notes:

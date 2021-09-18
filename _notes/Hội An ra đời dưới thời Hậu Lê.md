@@ -1,12 +1,3 @@
----
-title: Hội An ra đời dưới thời Hậu Lê
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Hội An ra đời dưới thời Hậu Lê
 
 ## Notes:

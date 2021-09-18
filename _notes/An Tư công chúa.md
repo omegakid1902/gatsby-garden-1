@@ -1,12 +1,3 @@
----
-title: An Tư công chúa
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "An Tư công chúa"
----
 # An Tư công chúa
 
 ## Definition

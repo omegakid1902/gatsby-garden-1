@@ -1,13 +1,3 @@
----
-title: Nhà Tây Sơn
-tags:
-  - '#created/2021/Jul/16'
-  - '#garden🏡'
-  - '#permanent/concept'
-aliases:
-  - Nhà Tây Sơn
-publish: False
----
 # Nhà Tây Sơn
 
 ## Notes:

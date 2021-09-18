@@ -1,12 +1,3 @@
----
-title: Trần Thiện Chí
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/people/family'
-aliases:
-  - anh Chí
----
 # Trần Thiện Chí
 
 ## Notes:

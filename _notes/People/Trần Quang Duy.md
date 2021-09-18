@@ -1,12 +1,3 @@
----
-title: Trần Quang Duy
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/people/family'
-aliases:
-  - 'NA'
----
 # Trần Quang Duy
 
 ## Notes:

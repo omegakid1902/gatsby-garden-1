@@ -1,12 +1,3 @@
----
-title: Tứ đại danh tác
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Tứ đại danh tác
----
 # Tứ đại danh tác
 
 ## Notes:

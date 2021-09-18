@@ -1,13 +1,3 @@
----
-title: Chúa Nguyễn
-tags:
-  - '#created/2021/Jul/14'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Chúa Nguyễn
-publish: True
----
 # Chúa Nguyễn
 
 ## Notes

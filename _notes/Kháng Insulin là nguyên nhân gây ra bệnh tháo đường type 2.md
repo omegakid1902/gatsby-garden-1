@@ -1,12 +1,3 @@
----
-title: Kháng Insulin là nguyên nhân gây ra bệnh tháo đường type 2
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Kháng Insulin là nguyên nhân gây ra bệnh tháo đường type 2
 
 ## Notes:

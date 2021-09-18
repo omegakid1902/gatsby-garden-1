@@ -1,12 +1,3 @@
----
-title: test
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - test
----
 # test
 
 ## Notes:

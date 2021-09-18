@@ -1,13 +1,3 @@
----
-title: Nhà Tiền Hán
-tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/concept'
-  - '#seed🥜'
-  - '#flashcards'
-aliases: 
-  - "Nhà Tây Hán"
----
 # Nhà Tiền Hán
 
 ## Definition

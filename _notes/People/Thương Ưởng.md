@@ -1,13 +1,3 @@
----
-title: Thương Ưởng
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Vệ Ưởng
-  - 
----
 # Thương Ưởng
 
 ## Notes:

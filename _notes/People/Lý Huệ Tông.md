@@ -1,12 +1,3 @@
----
-title: Lý Huệ Tông
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Lý Hạo Sảm
----
 # Lý Huệ Tông
 
 ## Notes:

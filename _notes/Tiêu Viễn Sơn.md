@@ -1,11 +1,3 @@
----
-title: Tiêu Viễn Sơn
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Tiêu Viễn Sơn]
----
 # Tiêu Viễn Sơn
 
 ## Definition

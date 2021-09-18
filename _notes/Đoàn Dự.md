@@ -1,10 +1,3 @@
----
-title: Đoàn Dự
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/people'
-  - '#flashcards'
----
 # Đoàn Dự
 
 

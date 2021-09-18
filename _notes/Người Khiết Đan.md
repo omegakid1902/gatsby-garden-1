@@ -1,14 +1,3 @@
----
-title: Người Khiết Đan
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "Người Khiết Đan"
-  - Khất Đan
-  - Khitan
----
 # Người Khiết Đan
 
 ## Definition

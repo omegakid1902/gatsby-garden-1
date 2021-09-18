@@ -1,12 +1,3 @@
----
-title: Visa
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Thị thực
----
 # Visa
 
 ## Notes:

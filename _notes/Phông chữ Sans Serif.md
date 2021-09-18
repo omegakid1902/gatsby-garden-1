@@ -1,12 +1,3 @@
----
-title: Phông chữ Sans Serif
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Phông chữ Sans Serif
----
 # Phông chữ Sans Serif
 
 ## Notes:

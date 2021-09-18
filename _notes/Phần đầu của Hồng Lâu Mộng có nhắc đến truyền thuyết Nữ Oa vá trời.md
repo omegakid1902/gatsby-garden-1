@@ -1,12 +1,3 @@
----
-title: Phần đầu của Hồng Lâu Mộng có nhắc đến truyền thuyết Nữ Oa vá trời
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Phần đầu của Hồng Lâu Mộng có nhắc đến truyền thuyết Nữ Oa vá trời
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Shellshock là tên một lỗ hổng bảo mật của bash được phát hiện vào tháng 9 năm 2014
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Shellshock
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Insulin resistance
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Kháng Insulin
----
 # Insulin resistance
 
 ## Notes:

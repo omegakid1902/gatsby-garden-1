@@ -1,9 +1,3 @@
----
-title: Hư Trúc
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
----
 # Hư Trúc
 
 ## Notes

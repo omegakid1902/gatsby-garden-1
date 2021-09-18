@@ -1,12 +1,3 @@
----
-title: Hệ điều hành macOS
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - macOS
----
 # hệ điều hành macOS
 
 ## Notes:

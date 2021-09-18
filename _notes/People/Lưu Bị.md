@@ -1,12 +1,3 @@
----
-title: Lưu Bị
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Huyền Đức
----
 # Lưu Bị
 
 ## Notes:

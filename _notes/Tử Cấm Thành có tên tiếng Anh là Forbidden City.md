@@ -1,12 +1,3 @@
----
-title: Tử Cấm Thành có tên tiếng Anh là Forbidden City
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Tử Cấm Thành có tên tiếng Anh là Forbidden City
 
 ## Notes:

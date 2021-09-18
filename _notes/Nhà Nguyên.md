@@ -1,16 +1,3 @@
----
-title: Nhà Nguyên
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "Nhà Nguyên"
-  - Quân Nguyên
-  - Bắc Nguyên
-  - Triều Nguyên
-publish: True
----
 # Nhà Nguyên
 
 ## Definition

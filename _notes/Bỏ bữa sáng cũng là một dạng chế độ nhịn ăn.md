@@ -1,12 +1,3 @@
----
-title: Bỏ bữa sáng cũng là một dạng chế độ nhịn ăn
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Bỏ bữa sáng cũng là một dạng chế độ nhịn ăn
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Các di sản thế giới tại Việt Nam
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Các di sản thế giới tại Việt Nam
 
 ## Notes:

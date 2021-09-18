@@ -1,12 +1,3 @@
----
-title: Phong thần diễn nghĩa từng được Lê Quý Đôn chọn mang về Việt Nam
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Phong thần diễn nghĩa từng được Lê Quý Đôn chọn mang về Việt Nam
 
 ## Notes:

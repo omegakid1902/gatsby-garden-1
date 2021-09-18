@@ -1,6 +1,3 @@
----
-cards-deck: Default
----
 
 Radii of stable orbits in the Bohr model #card
 $a_0 = \frac{{ \hbar ^2}}{{m_e ke^2}}$

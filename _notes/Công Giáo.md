@@ -1,11 +1,3 @@
----
-title: Công Giáo
-tags:
-  - '#created/2020/Dec/25'
-  - '#MOC/1st'
-aliases: [Công giáo Roma, Giáo Hội Công Giáo, Catholic]
-publish: True
----
 # Công Giáo
 
 ### Định nghĩa

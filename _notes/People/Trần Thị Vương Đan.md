@@ -1,12 +1,3 @@
----
-title: Trần Thị Vương Đan
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Trần Thị Vương Đan
 
 ## Notes:

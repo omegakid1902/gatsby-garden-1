@@ -1,12 +1,3 @@
----
-title: Chùa Cầu được các thương nhân Nhật Bản xây dựng thế kỷ 17
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Chùa Cầu được các thương nhân Nhật Bản xây dựng thế kỷ 17
 
 ## Notes:

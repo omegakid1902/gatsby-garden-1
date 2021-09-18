@@ -1,12 +1,3 @@
----
-title: Cao Ly
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/nation'
-aliases: 
-  - "Cao Ly"
-  - Vương quốc Cao Ly
----
 # Cao Ly
 
 ## Definition

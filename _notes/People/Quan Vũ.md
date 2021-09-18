@@ -1,13 +1,3 @@
----
-title: Quan Vũ
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Quan Công
-  - Vân Trường
----
 # Quan Vũ
 
 ## Notes:

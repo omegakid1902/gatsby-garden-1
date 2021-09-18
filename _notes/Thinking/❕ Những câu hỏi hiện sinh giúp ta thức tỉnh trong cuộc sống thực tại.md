@@ -1,12 +1,3 @@
----
-title: ❕ Những câu hỏi hiện sinh giúp ta thức tỉnh trong cuộc sống thực tại
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Những câu hỏi hiện sinh giúp ta thức tỉnh trong cuộc sống thực tại
 
 ## Notes:

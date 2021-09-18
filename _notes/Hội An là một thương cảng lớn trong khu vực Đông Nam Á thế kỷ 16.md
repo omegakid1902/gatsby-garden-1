@@ -1,12 +1,3 @@
----
-title: Hội An là một thương cảng lớn trong khu vực Đông Nam Á thế kỷ 16
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Hội An là một thương cảng lớn trong khu vực Đông Nam Á thế kỷ 16
 
 ## Notes:

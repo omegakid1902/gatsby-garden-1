@@ -1,12 +1,3 @@
----
-title: ❕ Node package manager cũng giống như python package manager
-tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Node package manager cũng giống như python package manager
 
 ## Notes:

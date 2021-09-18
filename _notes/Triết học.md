@@ -1,8 +1,3 @@
----
-tags: '#MOC'
-alias:
-  - Triết học
----
 # Triết học
 
 - [[Existentialism MOC]]

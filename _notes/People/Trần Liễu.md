@@ -1,13 +1,3 @@
----
-title: Trần Liễu
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - An Sinh Vương
-publish: True
----
 # Trần Liễu
 
 ## Notes:

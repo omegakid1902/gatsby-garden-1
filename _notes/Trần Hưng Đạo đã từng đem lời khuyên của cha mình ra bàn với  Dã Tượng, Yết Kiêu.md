@@ -1,12 +1,3 @@
----
-title: Trần Hưng Đạo đã từng hỏi ký kiến của Dã Tượng, Yết Kiêu về lời khuyên của Trần Liễu
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trần Hưng Đạo đã từng đem lời khuyên của cha mình ra bàn với Dã Tượng, Yết Kiêu
 
 ## Notes:

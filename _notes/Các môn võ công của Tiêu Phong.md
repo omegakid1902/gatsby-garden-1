@@ -1,9 +1,3 @@
----
-title: Các môn võ công của Tiêu Phong
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/fact'
----
 # Các môn võ công của Tiêu Phong
 
 ## Notes

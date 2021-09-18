@@ -1,10 +1,3 @@
----
-title: Du Thản Chi nhặt được quyển Dịch Cân Kinh
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/fact'
-  - '#flashcards'
----
 # Du Thản Chi nhặt được quyển Dịch Cân Kinh
 
 ## Notes

@@ -1,12 +1,3 @@
----
-title: Times New Roman
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Times New Roman
----
 # Times New Roman
 
 ## Notes:

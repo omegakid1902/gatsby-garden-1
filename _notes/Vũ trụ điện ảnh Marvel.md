@@ -1,12 +1,3 @@
----
-title: Vũ trụ điện ảnh Marvel
-tags:
-  - '#created/2021/Sep/02'
-  - '#garden🏡'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Vũ trụ điện ảnh Marvel
 
 ## Notes:

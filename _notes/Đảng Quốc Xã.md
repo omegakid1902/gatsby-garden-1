@@ -1,12 +1,3 @@
----
-title: Đảng Quốc Xã
-tags:
-  - '#created/2021/Jun/20'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Đức Quốc Xã
----
 # Đảng Quốc Xã
 
 ## Notes:

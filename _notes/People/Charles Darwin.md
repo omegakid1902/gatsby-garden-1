@@ -1,12 +1,3 @@
----
-title: Charles Darwin
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Charles Darwin
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: Linh Từ Quốc mẫu
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Kiến Gia Hoàng hậu
-  - Thuận Trinh Hoàng hậu
----
 # Linh Từ Quốc mẫu
 
 ## Notes:

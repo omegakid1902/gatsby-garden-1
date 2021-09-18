@@ -1,12 +1,3 @@
----
-title: ❕ Nghĩ về việc tại sao chúng ta tồn tại chỉ làm chúng ta lãng phí thời gian
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Nghĩ về việc tại sao chúng ta tồn tại chỉ làm chúng ta lãng phí thời gian
 
 ## Notes:

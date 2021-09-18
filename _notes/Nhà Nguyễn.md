@@ -1,13 +1,3 @@
----
-title: Nhà Nguyễn
-tags:
-  - '#created/2021/Jul/15'
-  - '#garden🏡'
-  - '#permanent/nation'
-aliases:
-  - 'NA'
-publish: True
----
 # Nhà Nguyễn
 
 ## Note

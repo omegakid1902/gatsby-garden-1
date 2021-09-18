@@ -1,12 +1,3 @@
----
-title: Lumosity
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Lumosity
----
 # Lumosity
 
 ## Notes:

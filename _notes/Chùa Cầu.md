@@ -1,13 +1,3 @@
----
-title: Chùa Cầu
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - Cầu Nhật Bản
-  - Lai Viễn Kiều
----
 # Chùa Cầu
 
 ## Notes:

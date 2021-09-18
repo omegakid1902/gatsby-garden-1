@@ -1,12 +1,3 @@
----
-title: stackoverflow.com
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - stackoverflow
----
 # stackoverflow.com
 
 ## Notes:

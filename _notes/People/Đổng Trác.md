@@ -1,13 +1,3 @@
----
-title: Đổng Trác
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
-publish: True
----
 # Đổng Trác
 
 ## Notes:

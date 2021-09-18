@@ -1,12 +1,3 @@
----
-title: Tiếng Pali
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Nam Phạn
----
 # Tiếng Pali
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Ăn quá nhiều, béo phì, thừa cân liên quan đến bệnh kháng insulin
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Ăn quá nhiều, béo phì, thừa cân liên quan đến bệnh kháng insulin
 
 ## Notes:

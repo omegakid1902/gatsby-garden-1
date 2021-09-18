@@ -1,12 +1,3 @@
----
-title: Voltaire là người ủng hộ chế độ quân chủ
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Voltaire là người ủng hộ chế độ quân chủ
 
 ## Notes:

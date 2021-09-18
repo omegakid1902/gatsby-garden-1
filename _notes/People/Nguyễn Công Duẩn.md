@@ -1,12 +1,3 @@
----
-title: Nguyễn Công Duẩn
-tags:
-  - '#created/2021/Jul/14'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Thái bảo Hoàng công
----
 # Nguyễn Công Duẩn
 
 ## Notes:

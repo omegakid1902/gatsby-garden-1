@@ -1,10 +1,3 @@
----
-title: Các Đại Hãn Mông Cổ
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/fact'
-  - '#flashcards'
----
 # Các Đại Hãn Mông Cổ
 
 ## Notes

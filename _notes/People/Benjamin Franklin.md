@@ -1,12 +1,3 @@
----
-title: Benjamin Franklin
-tags:
-  - '#created/2021/Aug/08'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Benjamin Franklin
 
 ## Notes:

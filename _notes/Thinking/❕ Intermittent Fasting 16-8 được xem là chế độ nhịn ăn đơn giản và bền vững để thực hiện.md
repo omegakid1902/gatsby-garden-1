@@ -1,12 +1,3 @@
----
-title: ❕ Intermittent Fasting 16-8 được xem là chế độ nhịn ăn đơn giản và bền vững để thực hiện
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Intermittent Fasting 16-8 được xem là chế độ nhịn ăn đơn giản và bền vững để thực hiện
 
 ## Notes:

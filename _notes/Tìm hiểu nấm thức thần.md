@@ -1,11 +1,3 @@
----
-title: Tìm hiểu nấm thức thần
-tags:
-  - '#created/2021/Sep/02'
-  - '#garden🏡'
-aliases:
-  - Tìm hiểu nấm thức thần
----
 # Tìm hiểu nấm thức thần
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: Đức Giáo Hoàng
-tags:
-  - '#created/2021/Jun/27'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Đức Thánh Cha
-  - Giáo Hoàng
----
 # Đức Giáo Hoàng
 
 ## Notes:

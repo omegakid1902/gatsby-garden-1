@@ -1,12 +1,3 @@
----
-title: Thánh địa Mỹ Sơn
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - 'NA'
----
 # Thánh địa Mỹ Sơn
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein
 
 ## Notes:

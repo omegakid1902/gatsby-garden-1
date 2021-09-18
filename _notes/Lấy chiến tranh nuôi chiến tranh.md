@@ -1,12 +1,3 @@
----
-title: Lấy chiến tranh nuôi chiến tranh
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "Lấy chiến tranh nuôi chiến tranh"
----
 # Lấy chiến tranh nuôi chiến tranh
 
 ## Definition

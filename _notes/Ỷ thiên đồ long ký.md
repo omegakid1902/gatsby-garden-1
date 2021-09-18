@@ -1,12 +1,3 @@
----
-title: Ỷ thiên đồ long ký
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Ỷ thiên đồ long ký
----
 # Ỷ thiên đồ long ký
 
 ## Notes:

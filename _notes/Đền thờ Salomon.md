@@ -1,13 +1,3 @@
----
-title: Đền thờ Salomon
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Đền thờ Salomon
-  - Đền thờ thứ nhất
----
 # Đền thờ Salomon
 
 ## Notes:

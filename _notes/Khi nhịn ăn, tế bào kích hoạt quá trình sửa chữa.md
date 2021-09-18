@@ -1,12 +1,3 @@
----
-title: Khi nhịn ăn, tế bào kích hoạt quá trình sửa chữa
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Khi nhịn ăn, tế bào kích hoạt quá trình sửa chữa
 
 ## Notes:

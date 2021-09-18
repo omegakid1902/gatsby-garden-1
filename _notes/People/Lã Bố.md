@@ -1,15 +1,3 @@
----
-title: Lã Bố
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Phụng Tiên
-  - Lữ Bố
-  - Lã Ôn hầu
-publish: True
----
 # Lã Bố
 
 ## Notes:

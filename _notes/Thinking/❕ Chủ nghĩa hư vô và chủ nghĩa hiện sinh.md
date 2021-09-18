@@ -1,12 +1,3 @@
----
-title: ❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh
-tags:
-  - '#created/2021/Jun/29'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh
 
 ## Notes:

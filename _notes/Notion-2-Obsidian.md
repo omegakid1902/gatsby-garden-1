@@ -1,12 +1,3 @@
----
-title: Notion-2-Obsidian
-tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "Notion-2-Obsidian"
----
 # Notion-2-Obsidian
 
 ## Definition

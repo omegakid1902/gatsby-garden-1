@@ -1,12 +1,3 @@
----
-title: Ngữ hệ
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
----
 # Ngữ hệ
 
 ## Notes:

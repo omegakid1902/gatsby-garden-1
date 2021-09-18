@@ -1,12 +1,3 @@
----
-title: Ngũ đế Trung Hoa
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Ngũ đế
----
 # Ngũ đế Trung Hoa
 
 ## Notes:

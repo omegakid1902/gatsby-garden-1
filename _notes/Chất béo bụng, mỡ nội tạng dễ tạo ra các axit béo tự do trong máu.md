@@ -1,12 +1,3 @@
----
-title: Chất béo bụng, mỡ nội tạng dễ tạo ra các axit béo tự do trong máu
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Chất béo bụng, mỡ nội tạng dễ tạo ra các axit béo tự do trong máu
 
 ## Notes:

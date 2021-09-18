@@ -1,13 +1,3 @@
----
-title: Xích Thố
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Xích Thố
-publish: True
----
 # Xích Thố
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: Nhà Tần
-tags:
-  - '#created/2021/Jul/24'
-  - '#seed🥜'
-  - '#permanent/nation'
-aliases:
-  - Nước Tần
-publish: True
----
 # Nhà Tần
 
 ## Notes

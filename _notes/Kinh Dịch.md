@@ -1,12 +1,3 @@
----
-title: Kinh Dịch
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Kinh Dịch
----
 # Kinh Dịch
 
 ## Notes:

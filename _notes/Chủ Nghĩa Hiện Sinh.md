@@ -1,12 +1,3 @@
----
-title: Chủ Nghĩa Hiện Sinh
-tags:
-  - '#created/2020/Dec/25'
-  - '#seeding🌱'
-  - '#permanent/concept'
-aliases:
-  - Existentialism
----
 #  Chủ Nghĩa Hiện Sinh
 
 ## Notes:

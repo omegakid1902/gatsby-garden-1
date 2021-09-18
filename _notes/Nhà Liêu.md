@@ -1,14 +1,3 @@
----
-title: Nhà Liêu
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/nation'
-  - '#flashcards'
-aliases: 
-  - "Nhà Liêu"
-  - Nước Khiết Đan
-  - Liêu triều
----
 # Nhà Liêu
 
 ## Definition

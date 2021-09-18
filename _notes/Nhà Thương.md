@@ -1,14 +1,3 @@
----
-title: Nhà Thương
-tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/nation'
-aliases:
-  - Nhà Ân
-  - Ân Thương
-publish: True
----
 # Nhà Thương
 
 ## Notes:

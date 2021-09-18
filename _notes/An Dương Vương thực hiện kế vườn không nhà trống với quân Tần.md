@@ -1,13 +1,3 @@
----
-title: An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
-tags:
-  - '#created/2021/Sep/11'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
-publish: True
----
 # An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
 
 - metadata

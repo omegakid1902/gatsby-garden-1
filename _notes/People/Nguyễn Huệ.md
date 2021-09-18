@@ -1,13 +1,3 @@
----
-title: Nguyễn Huệ
-tags:
-  - '#created/2021/Jul/16'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Quang Trung
-  - Quang Trung - Nguyễn Huệ
----
 # Nguyễn Huệ
 
 ## Notes:

@@ -1,15 +1,3 @@
----
-title: Nho giáo
-tags:
-  - '#created/2021/Jul/11'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Đạo Khổng
-  - Nho giáo
-  - Khổng gia
-  - Nho giáo
----
 # Nho Giáo
 
 ## Notes:

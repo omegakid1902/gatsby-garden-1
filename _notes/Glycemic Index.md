@@ -1,11 +1,3 @@
----
-title: Chỉ số GI - Glycemic Index
-tags:
-  - '#created/2021/Aug/12'
-  - '#permanent/concept'
-  - '#notion'
-aliases: [Chỉ số GI, Glycemic Index]
----
 # Glycemic Index
 
 ## Notes

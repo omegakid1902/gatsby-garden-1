@@ -1,12 +1,3 @@
----
-title: ❕ Mạnh tử kẻ thù của Mặc Tử
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Mạnh tử kẻ thù của Mặc Tử
 
 ## Notes:

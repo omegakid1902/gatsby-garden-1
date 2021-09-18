@@ -1,12 +1,3 @@
----
-title: Vscode tips
-tags:
-  - '#created/2021/Sep/10'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Vscode tips
 
 ## Notes:

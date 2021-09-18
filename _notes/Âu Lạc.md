@@ -1,11 +1,3 @@
----
-title: ~Âu Lạc
-tags:
-  - '#created/2021/Jul/24'
-  - '#permanent/concept'
-aliases: [Âu Lạc]
-publish: True
----
 # Âu Lạc
 
 ## Notes

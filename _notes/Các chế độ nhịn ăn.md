@@ -1,12 +1,3 @@
----
-title: Các chế độ nhịn ăn
-tags:
-  - '#created/2021/Sep/03'
-  - '#garden🏡'
-aliases:
-  -
-publish: True
----
 # Các chế độ nhịn ăn
 
 ## Notes:

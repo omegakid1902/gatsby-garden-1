@@ -1,12 +1,3 @@
----
-title: Tử Cấm Thành
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - Forbidden City
----
 # Tử Cấm Thành
 
 ## Notes:

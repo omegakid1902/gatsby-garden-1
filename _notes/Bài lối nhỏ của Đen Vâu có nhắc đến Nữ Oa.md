@@ -1,12 +1,3 @@
----
-title: Bài lối nhỏ của Đen Vâu có nhắc đến Nữ Oa
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Bài lối nhỏ của Đen Vâu có nhắc đến Nữ Oa
 
 ## Notes:

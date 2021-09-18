@@ -1,15 +1,3 @@
----
-title: Dương Đình Nghệ
-tags:
-  - '#created/2021/Aug/21'
-  - '#permanent/people'
-  - '#flashcards'
-dates:
-  - birth:
-  - die:
-aliases:
-  - Dương Diên Nghệ
----
 # Dương Đình Nghệ
 
 

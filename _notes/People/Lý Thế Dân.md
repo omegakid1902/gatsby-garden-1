@@ -1,12 +1,3 @@
----
-title: Lý Thế Dân
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Đường Thái Tông
----
 # Lý Thế Dân
 
 ## Notes:

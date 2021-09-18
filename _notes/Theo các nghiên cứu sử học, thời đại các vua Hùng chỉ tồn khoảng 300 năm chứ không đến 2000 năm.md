@@ -1,11 +1,3 @@
----
-title: Theo các nghiên cứu sử học, thời đại các vua Hùng chỉ tồn khoảng 300 năm chứ không đến 2000 năm
-tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/fact'
-  - '#seed🥜'
-  - '#flashcards'
----
 # Theo các nghiên cứu sử học, thời đại các vua Hùng chỉ tồn khoảng 300 năm chứ không đến 2000 năm
 
 ## Notes

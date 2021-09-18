@@ -1,14 +1,3 @@
----
-title: Campuchia
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/nation'
-aliases:
-  - Vương Quốc Campuchia
-  - Nước Campuchia
-  - Cao Miên
----
 # Campuchia
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: Toán học
-tags:
-  - '#created/2021/Jul/10'
-  - '#garden🏡'
-  - '#permanent/concept'
-aliases:
-  - Toán học
-publish: True
----
 # Toán học
 
 

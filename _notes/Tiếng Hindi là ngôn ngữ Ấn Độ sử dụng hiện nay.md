@@ -1,12 +1,3 @@
----
-title: Tiếng Hindi là ngôn ngữ Ấn Độ sử dụng hiện nay
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Tiếng Hindi là ngôn ngữ Ấn Độ sử dụng hiện nay
 
 ## Notes:

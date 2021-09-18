@@ -1,12 +1,3 @@
----
-title: UNESCO
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - UNESCO
----
 # UNESCO
 
 ## Notes:

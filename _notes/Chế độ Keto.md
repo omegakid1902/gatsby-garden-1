@@ -1,12 +1,3 @@
----
-title: Chế độ Keto
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Ketogenic diet
----
 # Chế độ Keto
 
 ## Notes:

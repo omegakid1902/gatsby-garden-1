@@ -1,12 +1,3 @@
----
-title: Mười hai tông đồ
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Mười hai tông đồ
----
 # Mười hai tông đồ
 
 ## Notes:

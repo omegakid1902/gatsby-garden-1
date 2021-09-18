@@ -1,12 +1,3 @@
----
-title: Protein
-tags:
-  - '#created/2021/Aug/10'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Chất đạm
----
 # Protein
 
 ## Notes:

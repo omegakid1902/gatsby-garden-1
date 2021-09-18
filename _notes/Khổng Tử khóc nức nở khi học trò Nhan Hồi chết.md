@@ -1,12 +1,3 @@
----
-title: Khổng Tử khóc nức nở khi học trò Nhan Hồi chết
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Khổng Tử khóc nức nở khi học trò Nhan Hồi chết
 
 ## Notes:

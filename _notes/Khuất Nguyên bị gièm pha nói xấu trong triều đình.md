@@ -1,12 +1,3 @@
----
-title: Khuất Nguyên bị gièm pha nói xấu trong triều đình
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Khuất Nguyên bị gièm pha nói xấu trong triều đình
 
 ## Notes:

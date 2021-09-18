@@ -1,12 +1,3 @@
----
-title: Gatsby tutorial
-tags:
-  - '#created/2021/Sep/10'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
----
 # Gatsby tutorial
 
 ## Notes:

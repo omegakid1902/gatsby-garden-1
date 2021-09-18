@@ -1,10 +1,3 @@
----
-title: Monosacharide
-tags:
-  - '#created/2021/Aug'
-  - '#permanent/concept'
-aliases: [đường đơn]
----
 # Monosacharide
 
 

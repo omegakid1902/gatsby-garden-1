@@ -1,14 +1,3 @@
----
-title: Python package manager
-tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Preferred Installer Program
-  - PIP
-  - pip
----
 # Python package manager
 
 ## Notes:

@@ -1,14 +1,3 @@
----
-title: Võ Tắc Thiên
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Vũ Tắc Thiên
-  - Võ Hậu
-publish: True
----
 # Võ Tắc Thiên
 
 ## Notes:

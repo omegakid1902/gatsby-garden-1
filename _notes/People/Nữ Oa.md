@@ -1,12 +1,3 @@
----
-title: Nữ Oa
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Nữ Oa nương nương
----
 # Nữ Oa
 
 ## Notes:

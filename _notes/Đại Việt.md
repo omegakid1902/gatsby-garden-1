@@ -1,11 +1,3 @@
----
-title: Đại Việt
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Đại Việt]
----
 # Đại Việt
 
 ## Definition

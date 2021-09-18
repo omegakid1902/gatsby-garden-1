@@ -1,12 +1,3 @@
----
-title: Hệ số ELO
-tags:
-  - '#created/2021/Aug/26'
-  - '#🥜'
-  - '#permanent/concept'
-aliases:
-  - ELO
----
 # Hệ số ELO
 
 ## Notes:

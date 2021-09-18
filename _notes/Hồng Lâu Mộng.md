@@ -1,13 +1,3 @@
----
-title: Hồng Lâu Mộng
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Thạch đầu ký
-  - Kim Ngọc kì duyên
----
 # Hồng Lâu Mộng
 
 ## Notes:

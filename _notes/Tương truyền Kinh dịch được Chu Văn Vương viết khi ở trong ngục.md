@@ -1,12 +1,3 @@
----
-title: Tương truyền Kinh dịch được Chu Văn Vương viết khi ở trong ngục
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Tương truyền Kinh dịch được Chu Văn Vương viết khi ở trong ngục
 
 ## Notes:

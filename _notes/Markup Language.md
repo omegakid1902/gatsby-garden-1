@@ -1,12 +1,3 @@
----
-title: Markup Language
-tags:
-  - '#created/2021/Jul/5'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Ngôn ngữ đánh dấu
----
 # Markup Language
 
 ## Notes:

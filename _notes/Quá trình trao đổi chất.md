@@ -1,12 +1,3 @@
----
-title: Quá trình trao đổi chất
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Metabolism
----
 # Quá trình trao đổi chất
 
 ## Notes:

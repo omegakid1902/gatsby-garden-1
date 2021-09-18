@@ -1,12 +1,3 @@
----
-title: ❕ Mọi người thường nhầm lẫn giữa shell và bash
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Mọi người thường nhầm lẫn giữa shell và bash
 
 ## Notes:

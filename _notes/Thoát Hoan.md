@@ -1,11 +1,3 @@
----
-title: Thoát Hoan
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/people'
-aliases: 
-  - "Thoát Hoan"
----
 # Thoát Hoan
 
 ## Definition

@@ -1,12 +1,3 @@
----
-title: Bản dịch tiếng việt của Phong thần diễn nghĩa
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Bản dịch tiếng việt của Phong thần diễn nghĩa
 
 ## Notes:

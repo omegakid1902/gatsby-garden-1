@@ -1,12 +1,3 @@
----
-title: Lớp Hull
-tags:
-  - '#created/2021/Aug/14'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Lớp vỏ chấu
----
 # Lớp Hull - vỏ chấu
 
 ## Notes:

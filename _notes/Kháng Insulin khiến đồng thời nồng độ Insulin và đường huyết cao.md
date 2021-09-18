@@ -1,12 +1,3 @@
----
-title: Kháng Insulin khiến đồng thời nồng độ Insulin và đường huyết cao
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Kháng Insulin khiến đồng thời nồng độ Insulin và đường huyết cao
 
 ## Notes:

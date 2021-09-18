@@ -1,12 +1,3 @@
----
-title: ❕ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình để làm những việc ta muốn thì ta đang sống trong bad faith
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình để làm những việc ta muốn thì ta đang sống trong bad faith
 
 ## Notes:

@@ -1,14 +1,3 @@
----
-title: Hạ Vũ
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Hạ Tử Thành
-  - Hạ Đại Vũ
-publish: True
----
 # Hạ Vũ
 
 ## Notes:

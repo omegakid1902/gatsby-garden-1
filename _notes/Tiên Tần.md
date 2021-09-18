@@ -1,12 +1,3 @@
----
-title: Tiên Tần
-tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/concept'
-aliases:
-  - Tiên Tần
----
 # Tiên Tần
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: ❕ 💥 Tại sao đôi lúc ta luôn cảm thấy mệt mỏi, thiếu năng lượng
-tags:
-  - '#created/2021/Sep/01'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Tại sao đôi lúc ta luôn cảm thấy mệt mỏi, thiếu năng lượng
 
 ## Notes:

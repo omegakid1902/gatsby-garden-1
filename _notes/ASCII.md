@@ -1,12 +1,3 @@
----
-title: ASCII
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - ASCII
----
 # ASCII
 
 ## Notes:

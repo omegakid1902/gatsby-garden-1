@@ -1,12 +1,3 @@
----
-title: Độ nhạy Insulin
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Insulin Sensitive
----
 # Độ nhạy Insulin
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Nguyễn Hoàng khai phá miền nam, xây dựng Hội An
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Nguyễn Hoàng khai phá miền nam, xây dựng Hội An
 
 ## Notes:

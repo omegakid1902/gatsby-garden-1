@@ -1,13 +1,3 @@
----
-title: Trần Huyền Trang
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Đường Tăng
-  - Đường Tam Tạng
----
 # Trần Huyền Trang
 
 ## Notes:

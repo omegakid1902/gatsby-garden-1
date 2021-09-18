@@ -1,12 +1,3 @@
----
-title: Insulin
-tags:
-  - '#created/2021/Aug/13'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Insulin
----
 # Insulin
 
 ## Notes:

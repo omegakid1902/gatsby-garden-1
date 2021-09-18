@@ -1,10 +1,3 @@
----
-title: Chỉ số GL
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-aliases: [Glycemic Load]
----
 
 # Chỉ số GL
 

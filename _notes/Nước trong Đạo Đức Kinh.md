@@ -1,12 +1,3 @@
----
-title: Nước trong Đạo Đức Kinh
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Nước trong Đạo Đức KInh
 
 ## Notes:

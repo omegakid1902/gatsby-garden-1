@@ -1,12 +1,3 @@
----
-title: Tiếng Sanskrit còn được gọi là Bắc Phạn
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Tiếng Sanskrit còn được gọi là Bắc Phạn
 
 ## Notes:

@@ -1,14 +1,3 @@
----
-title: Trần Hưng Đạo
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Hưng Đạo Vương
-  - Trần Quốc Tuấn
-publish: True
----
 # Trần Hưng Đạo
 
 ## Notes:

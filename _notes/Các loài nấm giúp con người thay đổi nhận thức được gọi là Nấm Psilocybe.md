@@ -1,12 +1,3 @@
----
-title: Các loài nấm giúp con người thay đổi nhận thức được gọi là Nấm Psilocybe
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Các loài nấm giúp con người thay đổi nhận thức được gọi là Nấm Psilocybe
 
 ## Notes:

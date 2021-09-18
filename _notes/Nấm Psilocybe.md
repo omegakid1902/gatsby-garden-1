@@ -1,12 +1,3 @@
----
-title: Nấm Psilocybe
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Nấm thức thần
----
 # Nấm Psilocybe
 
 ## Notes:

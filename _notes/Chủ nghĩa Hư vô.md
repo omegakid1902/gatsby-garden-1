@@ -1,12 +1,3 @@
----
-title: Chủ nghĩa Hư vô
-tags:
-  - '#created/2020/Dec/28'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Nihilism
----
 #  Chủ nghĩa Hư vô
 
 ## Notes:

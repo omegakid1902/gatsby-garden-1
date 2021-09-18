@@ -1,12 +1,3 @@
----
-title: Phim hay
-tags:
-  - '#created/2021/Sep/01'
-  - '#garden🏡'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Phim hay
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: sh đơn giản và gọn nhẹ hơn bash
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # sh đơn giản và gọn nhẹ hơn bash
 
 ## Notes:

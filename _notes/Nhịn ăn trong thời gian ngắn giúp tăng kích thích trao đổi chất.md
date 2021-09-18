@@ -1,12 +1,3 @@
----
-title: Nhịn ăn trong thời gian ngắn giúp tăng kích thích trao đổi chất
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Nhịn ăn trong thời gian ngắn giúp tăng kích thích trao đổi chất
 
 ## Notes:

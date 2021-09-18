@@ -1,14 +1,3 @@
----
-title: Đế Thuấn
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Ngu Thuấn
-  - Trọng Hoa
-publish: True
----
 # Đế Thuấn
 
 ## Notes:

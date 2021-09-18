@@ -1,12 +1,3 @@
----
-title: Tiếng Phạn là tiền thân của Tiếng Hindi
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Tiếng Phạn là tiền thân của Tiếng Hindi
 
 ## Notes:

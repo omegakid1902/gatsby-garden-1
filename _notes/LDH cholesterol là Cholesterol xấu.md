@@ -1,12 +1,3 @@
----
-title: LDH cholesterol là Cholesterol xấu
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # LDH cholesterol là Cholesterol xấu
 
 ## Notes:

@@ -1,14 +1,3 @@
----
-title: Đức Jesus
-tags:
-  - '#created/2021/Jul/31'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Chúa Jesus
-  - Jesus Christ
-  - Chúa Giêsu
----
 # Đức Jesus
 
 ## Notes:

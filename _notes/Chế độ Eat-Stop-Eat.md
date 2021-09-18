@@ -1,12 +1,3 @@
----
-title: Chế độ Eat-Stop-Eat
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Chế độ Eat-Stop-Eat
----
 # Chế độ Eat-Stop-Eat
 
 ## Notes:

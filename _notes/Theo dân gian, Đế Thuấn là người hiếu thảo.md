@@ -1,12 +1,3 @@
----
-title: Theo dân gian, Đế Thuấn là người hiếu thảo
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Theo dân gian, Đế Thuấn là người hiếu thảo
 
 ## Notes:

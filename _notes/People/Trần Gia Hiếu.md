@@ -1,13 +1,3 @@
----
-title: Trần Gia Hiếu
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/people/family'
-aliases:
-  - Bảo Bảo
-  - Bảo
----
 # Trần Gia Hiếu
 
 ## Notes:

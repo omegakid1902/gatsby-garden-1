@@ -1,12 +1,3 @@
----
-title: Jekyll generator
-tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
----
 # Jekyll
 
 ## Notes:

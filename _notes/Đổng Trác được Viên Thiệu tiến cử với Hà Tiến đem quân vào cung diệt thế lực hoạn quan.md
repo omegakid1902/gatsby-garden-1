@@ -1,12 +1,3 @@
----
-title: Đổng Trác được Viên Thiệu tiến cử với Hà Tiến đem quân vào cung diệt thế lực hoạn quan
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Đổng Trác được Viên Thiệu tiến cử với Hà Tiến đem quân vào cung diệt thế lực hoạn quan
 
 ## Notes:

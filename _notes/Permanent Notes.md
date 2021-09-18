@@ -1,11 +1,3 @@
----
-title: Permanent Notes
-tags:
- - pkm
- - zettelkasten
- - learning
- - notes
----
 
 Permanent Notes in Zettelkasten should follow this framework...
 - One idea per note - but as complete as possible in your own words

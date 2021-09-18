@@ -1,9 +1,3 @@
----
-title: Không biết chắc chắn nguồn gốc của Dịch Cân Kinh
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/fact'
----
 # Không biết chắc chắn nguồn gốc của Dịch Cân Kinh
 
 ## Notes

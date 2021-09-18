@@ -1,12 +1,3 @@
----
-title: Chất béo không bão hòa đa
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Chất béo không bão hòa đa
----
 # Chất béo không bão hòa đa
 
 ## Notes:

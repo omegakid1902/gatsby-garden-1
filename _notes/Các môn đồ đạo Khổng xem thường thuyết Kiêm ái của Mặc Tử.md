@@ -1,12 +1,3 @@
----
-title: Các môn đồ đạo Khổng xem thường thuyết Kiêm ái của Mặc Tử
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Các môn đồ đạo Khổng xem thường thuyết Kiêm ái của Mặc Tử
 
 ## Notes:

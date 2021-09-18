@@ -1,12 +1,3 @@
----
-title: Vua Nghiêu cho treo một cái trống ở cửa cung điện để ai có ý kiến góp ý gì thì đánh trống, hoặc ghi lại góp ý trên một tấm bảng
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Vua Nghiêu cho treo một cái trống ở cửa cung điện để ai có ý kiến góp ý gì thì đánh trống, hoặc ghi lại góp ý trên một tấm bảng
 
 ## Notes:

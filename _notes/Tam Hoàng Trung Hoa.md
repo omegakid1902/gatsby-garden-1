@@ -1,12 +1,3 @@
----
-title: Tam Hoàng Trung Hoa
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Tam Hoàng
----
 # Tam Hoàng Trung Hoa
 
 ## Notes:

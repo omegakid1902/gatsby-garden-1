@@ -1,12 +1,3 @@
----
-title: The tree of life
-tags:
-  - '#created/2021/Sep/01'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - The tree of life
----
 # The tree of life
 
 ## Notes:

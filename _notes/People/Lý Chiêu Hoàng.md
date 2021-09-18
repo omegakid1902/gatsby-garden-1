@@ -1,15 +1,3 @@
----
-title: Lý Chiêu Hoàng
-tags:
-  - '#created/2021/Jul/08'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Lý Phật Kim
-  - Chiêu Thánh công chúa
-  - Chiêu Thánh hoàng hậu
-publish: True
----
 # Lý Chiêu Hoàng
 
 ## Notes:

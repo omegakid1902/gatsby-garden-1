@@ -1,13 +1,3 @@
----
-title: Thuận Thiên công chúa
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Lý Oánh
-publish: True
----
 # Thuận Thiên công chúa
 
 ## Notes:

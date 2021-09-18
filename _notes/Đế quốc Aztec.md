@@ -1,13 +1,3 @@
----
-title: Đế quốc Aztec
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/nation'
-aliases:
-  - Tam Đồng Minh
-  - Liên Minh Tam Quốc
----
 # Đế quốc Aztec
 
 ## Notes:

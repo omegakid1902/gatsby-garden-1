@@ -1,12 +1,3 @@
----
-title: Gia đình mình
-tags:
-  - '#created/2021/Sep/07'
-  - '#garden🏡'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
----
 # Gia đình mình
 
 ## Notes:

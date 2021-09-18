@@ -1,12 +1,3 @@
----
-title: Trường phái pháp gia dùng pháp luật để trị dân
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trường phái pháp gia dùng pháp luật để trị dân
 
 ## Notes:

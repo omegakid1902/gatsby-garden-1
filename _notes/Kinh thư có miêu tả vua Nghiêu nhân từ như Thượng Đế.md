@@ -1,12 +1,3 @@
----
-title: Kinh thư có miêu tả vua Nghiêu nhân từ như Thượng Đế
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Kinh thư có miêu tả vua Nghiêu nhân từ như Thượng Đế
 
 ## Notes:

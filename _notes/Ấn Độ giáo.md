@@ -1,14 +1,3 @@
----
-title: Ấn Độ giáo
-tags:
-  - '#created/2021/Jul/4'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Đạo Hindu
-  - Hindu
-  - Hindu giáo
----
 # Ấn Độ giáo
 
 ## Notes:

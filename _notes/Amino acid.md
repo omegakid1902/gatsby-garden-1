@@ -1,14 +1,3 @@
----
-title: "Amino acid"
-tags:
-  - '#created/2021/Aug/18'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "Amino acid"
-  - Acid Amin
-publish: True
----
 
 # Amino acid
 

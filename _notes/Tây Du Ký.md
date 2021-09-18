@@ -1,12 +1,3 @@
----
-title: Tây Du Ký
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Tây Du Ký
----
 # Tây Du Ký
 
 ## Notes:

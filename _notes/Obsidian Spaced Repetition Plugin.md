@@ -1,10 +1,3 @@
----
-title: Obsidian Spaced Repetition Plugin
-tags:
-  - '#created/2021/Aug/15'
-  - '#permanent/concept'
-  - '#flashcards'
----
 # Obsidian Spaced Repetition Plugin
 
 ## Definition

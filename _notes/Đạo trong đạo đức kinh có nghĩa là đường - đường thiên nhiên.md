@@ -1,12 +1,3 @@
----
-title: Đạo trong đạo đức kinh có nghĩa là đường - đường thiên nhiên
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Đạo trong đạo đức kinh có nghĩa là đường - đường thiên nhiên
 
 ## Notes:

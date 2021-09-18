@@ -1,12 +1,3 @@
----
-title: Trải nghiệm những hiệu ứng sau khi dùng LSD, Nấm được gọi là trip
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trải nghiệm những hiệu ứng sau khi dùng LSD, Nấm được gọi là trip
 
 ## Notes:

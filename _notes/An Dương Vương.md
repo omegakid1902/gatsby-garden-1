@@ -1,14 +1,3 @@
----
-title: An Dương Vương
-tags:
-  - '#created/2021/Jul/24'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - An Dương Vương
-  - Thục Phán
-publish: True
----
 # An Dương Vương
 
 ## Notes

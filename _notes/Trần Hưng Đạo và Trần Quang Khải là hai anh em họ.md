@@ -1,12 +1,3 @@
----
-title: Trần Quốc Tuấn và Trần Quang Khải là hai anh em họ
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trần Hưng Đạo và Trần Quang Khải là hai anh em họ
 
 ## Notes:

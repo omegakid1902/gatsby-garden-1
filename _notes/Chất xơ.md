@@ -1,12 +1,3 @@
----
-title: Chất xơ
-tags:
-  - '#created/2021/Aug/13'
-  - '#permanent/concept'
-  - '#notion'
-  - '#flashcards'
-aliases: [Chất xơ, Fiber, Cellose]
----
 # Chất xơ
 
 ## Notes

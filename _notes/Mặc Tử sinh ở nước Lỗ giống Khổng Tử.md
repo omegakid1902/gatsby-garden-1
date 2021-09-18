@@ -1,12 +1,3 @@
----
-title: Mặc Tử sinh ở nước Lỗ giống Khổng Tử
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Mặc Tử cũng sinh ở nước Lỗ giống Khổng Tử
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Họ Khúc
-tags:
-  - '#created/2021/Aug/21'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "Họ Khúc"
----
 # Họ Khúc
 
 ## Definition

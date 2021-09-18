@@ -1,13 +1,3 @@
----
-title: Trần Gia Hân
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/people/family'
-aliases:
-  - Bối Bối
-  - Bối
----
 # Trần Gia Hân
 
 ## Notes:

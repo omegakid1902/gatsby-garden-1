@@ -1,12 +1,3 @@
----
-title: Chất béo bão hòa thường ở dạng rắn ở nhiệt độ phòng
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Chất béo bão hòa thường ở dạng rắn ở nhiệt độ phòng
 
 ## Notes:

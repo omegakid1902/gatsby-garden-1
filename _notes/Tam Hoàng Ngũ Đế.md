@@ -1,12 +1,3 @@
----
-title: Tam Hoàng Ngũ Đế
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Tam Hoàng Ngũ Đế
----
 # Tam Hoàng Ngũ Đế
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: Sách đã đọc
-tags:
-  - '#created/2021/Aug/11'
-  - '#garden🏡'
-  - '#permanent/concept'
-aliases:
-  - 'NA'
-publish: False
----
 # Sách đã đọc
 
 

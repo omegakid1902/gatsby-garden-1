@@ -1,12 +1,3 @@
----
-title: Thủy Hử
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Thủy Hử
----
 # Thủy Hử
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Uper case, lower case bắt nguồn từ việc sắp chữ bảng in
-tags:
-  - '#created/2021/Aug/31'
-  - '#seeding🌱'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Uper case, lower case bắt nguồn từ việc sắp chữ bảng in
 
 ## Notes:

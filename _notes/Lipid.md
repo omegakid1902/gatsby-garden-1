@@ -1,13 +1,3 @@
----
-title: Lipid
-tags:
-  - '#created/2021/Aug/10'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Lipid
-  - chất béo
----
 # Lipid
 
 ## Notes:

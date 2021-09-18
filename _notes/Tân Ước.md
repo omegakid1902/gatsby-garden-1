@@ -1,12 +1,3 @@
----
-title: Tân Ước
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - New Testament
----
 # Tân Ước
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Kinh dịch có nguồn gốc từ đời Phục Hi
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Kinh dịch có nguồn gốc từ đời Phục Hi
 
 ## Notes:

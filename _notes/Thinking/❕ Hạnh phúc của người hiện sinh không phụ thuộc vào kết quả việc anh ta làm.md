@@ -1,12 +1,3 @@
----
-title: ❕ Hạnh phúc của người hiện sinh không phụ thuộc vào kết quả việc anh ta làm
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Hạnh phúc của người hiện sinh không phụ thuộc vào kết quả việc anh ta làm
 
 ## Notes:

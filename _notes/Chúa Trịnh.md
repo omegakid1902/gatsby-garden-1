@@ -1,13 +1,3 @@
----
-title: Chúa Trịnh
-tags:
-  - '#created/2021/Jul/12'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Chúa Trịnh
-publish: True
----
 # Chúa Trịnh
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-pblish: True
----
 # Barbell Reading Method
 
 - metadata

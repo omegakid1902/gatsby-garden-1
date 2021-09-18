@@ -1,10 +1,3 @@
----
-title: Hồ Quý Ly còn được gọi là Lê Quý Ly
-tags:
-  - '#created/2021/Aug/21'
-  - '#permanent/fact'
-  - '#flashcards'
----
 # Hồ Quý Ly còn được gọi là Lê Quý Ly
 
 ## Notes

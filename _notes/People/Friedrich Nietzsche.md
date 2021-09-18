@@ -1,11 +1,3 @@
----
-title: Friedrich Nietzsche
-tags:
-  - '#created/2020/Oct/22'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
----
 
 # Friedrich Nietzsche
 

@@ -1,12 +1,3 @@
----
-title: Sách Xuân Thu kể về tóm gọn những biến cố trong lịch sử nước Lỗ
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Sách Xuân Thu kể về tóm gọn những biến cố trong lịch sử nước Lỗ
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Arpad Elo
-tags:
-  - '#created/2021/Aug/26'
-  - '#🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Arpad Elo
 
 ## Notes:

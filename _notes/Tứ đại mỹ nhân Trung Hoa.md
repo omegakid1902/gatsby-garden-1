@@ -1,12 +1,3 @@
----
-title: Tứ đại mỹ nhân Trung Hoa
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - Tứ đại mỹ nhân
----
 # Tứ đại mỹ nhân Trung Hoa
 
 ## Notes:

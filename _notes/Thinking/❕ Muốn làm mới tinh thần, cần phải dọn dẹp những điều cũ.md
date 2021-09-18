@@ -1,12 +1,3 @@
----
-title: ❕ Muốn làm mới tinh thần, cần phải dọn dẹp những điều cũ
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Muốn làm mới tinh thần, cần phải dọn dẹp những điều cũ
 
 ## Notes:

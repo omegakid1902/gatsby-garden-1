@@ -1,12 +1,3 @@
----
-title: Chiến tranh biên giới Tây Nam
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Chiến tranh biên giới Tây Nam
----
 # Chiến tranh biên giới Tây Nam
 
 ## Notes:

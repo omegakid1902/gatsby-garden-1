@@ -1,14 +1,3 @@
----
-title: Intermittent Fasting 16-8
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Intermittent Fasting 16-8
-  - Phương pháp Leangains
-  - Nhịn ăn 16-8
----
 # Intermittent Fasting 16-8
 
 ## Notes:

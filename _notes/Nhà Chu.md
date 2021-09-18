@@ -1,13 +1,3 @@
----
-title: Nhà Chu
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/nation'
-aliases:
-  - 'NA'
-publish: True
----
 # Nhà Chu
 
 ## Notes:

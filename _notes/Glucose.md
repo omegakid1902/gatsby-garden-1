@@ -1,11 +1,3 @@
----
-title: ~Glucose
-tags:
-  - '#created/2021/Aug/12'
-  - '#MOC'
-  - '#notion'
-aliases: [Glucose]
----
 # ~Glucose
 
 ## Notes

@@ -1,12 +1,3 @@
----
-title: ❕ Chủ nghĩa hiện sinh chú trọng đến cuộc đời cá nhân
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Chủ nghĩa hiện sinh chú trọng đến cuộc đời cá nhân
 
 ## Notes:

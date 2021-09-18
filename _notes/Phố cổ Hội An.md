@@ -1,12 +1,3 @@
----
-title: Phố cổ Hội An
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - Hội An
----
 # Phố cổ Hội An
 
 ## Notes:

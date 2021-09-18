@@ -1,12 +1,3 @@
----
-title: zsh
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - zsh
----
 # zsh
 
 ## Notes:

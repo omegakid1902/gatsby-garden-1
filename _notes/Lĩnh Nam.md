@@ -1,12 +1,3 @@
----
-title: Lĩnh Nam
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/place'
-aliases:
-  - 'NA'
----
 # Lĩnh Nam
 
 ## Notes:

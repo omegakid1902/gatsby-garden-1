@@ -1,12 +1,3 @@
----
-title: Có thể uống nước, trà, cà phê trong khi nhịn ăn
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Có thể uống nước, trà, cà phê trong khi nhịn ăn
 
 ## Notes:

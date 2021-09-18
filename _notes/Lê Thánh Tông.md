@@ -1,12 +1,3 @@
----
-title: "Lê Thánh Tông"
-tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - "Hồng Đức"
----
 
 # Lê Thánh Thông
 

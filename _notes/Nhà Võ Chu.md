@@ -1,12 +1,3 @@
----
-title: Nhà Võ Chu
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Nhà Võ Chu
----
 # Nhà Võ Chu
 
 ## Notes:

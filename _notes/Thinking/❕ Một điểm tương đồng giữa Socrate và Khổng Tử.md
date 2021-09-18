@@ -1,12 +1,3 @@
----
-title: ❕ Một điểm tương đồng giữa Socrate và Khổng Tử
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Một điểm tương đồng giữa Socrate và Khổng Tử
 
 ## Notes:

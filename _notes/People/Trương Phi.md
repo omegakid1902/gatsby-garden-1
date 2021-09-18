@@ -1,12 +1,3 @@
----
-title: Trương Phi
-tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Dực Đức
----
 # Trương Phi
 
 ## Notes:

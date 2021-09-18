@@ -1,16 +1,3 @@
----
-title: "Nguyễn Ánh"
-tags:
-  - '#created/2021/Jul/16'
-  - '#permanent/concept/people'
-  - '#flashcards'
-aliases: 
-  - "Nguyễn Ánh"
-  - Nguyễn Phúc Ánh
-  - Gia Long
-  - Nguyễn Thế Tổ
-Publish: True
----
 # Nguyễn Ánh
 
 ## Notes

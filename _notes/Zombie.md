@@ -1,12 +1,3 @@
----
-title: Zombie
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Zombee
----
 # Zombie
 
 ## Notes:

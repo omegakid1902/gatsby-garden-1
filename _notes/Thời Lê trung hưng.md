@@ -1,13 +1,3 @@
----
-title: Thời Lê trung hưng
-tags:
-  - '#created/2021/Jul/12'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Thời Lê trung hưng
-publish: True
----
 # Thời Lê trung hưng
 
 ## Notes:

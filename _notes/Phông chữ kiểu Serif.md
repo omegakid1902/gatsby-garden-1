@@ -1,12 +1,3 @@
----
-title: Phông chữ kiểu Serif
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Phông chữ kiểu serif
----
 # Phông chữ kiểu serif
 
 ## Notes:

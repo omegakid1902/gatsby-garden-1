@@ -1,12 +1,3 @@
----
-title: Nhà Đường bị gián đoạn bởi nhà Võ Chu
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Nhà Đường bị gián đoạn bởi nhà Võ Chu
 
 ## Notes:

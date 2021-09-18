@@ -1,12 +1,3 @@
----
-title: Trần Hưng Đạo là con trai Trần Liễu
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trần Hưng Đạo là con trai Trần Liễu
 
 ## Notes:

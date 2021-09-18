@@ -1,13 +1,3 @@
----
-title: Phông chữ
-tags:
-  - '#created/2021/Aug/31'
-  - '#seeding🌱'
-  - '#permanent/concept'
-aliases:
-  - Phông chữ
-  - Font
----
 # Phông chữ
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: UTF
-tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - UTF
-  - Unicode Transformation Format
----
 # UTF
 
 ## Notes:

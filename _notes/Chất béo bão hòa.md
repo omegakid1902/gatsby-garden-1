@@ -1,12 +1,3 @@
----
-title: Chất béo bão hòa
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - saturated fat
----
 # Chất béo bão hòa
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: Ngột Lương Hợp Thai
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/people'
-  - '#flashcards'
-aliases: 
-  - "Ngột Lương Hợp Thai"
-  - Uriyangqatai
----
 # Ngột Lương Hợp Thai
 
 ## Definition

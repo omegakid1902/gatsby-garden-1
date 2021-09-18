@@ -1,12 +1,3 @@
----
-title: Trần Liễu có mối hận với em trai mình là Trần Cảnh
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Trần Liễu có mối hận với em trai mình là Trần Cảnh
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: Người sáng lập ra hệ số Elo là một đại kiện tướng cờ vua
-tags:
-  - '#created/2021/Aug/26'
-  - '#🌱'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Người sáng lập ra hệ số Elo là một đại kiện tướng cờ vua
 
 ## Notes:

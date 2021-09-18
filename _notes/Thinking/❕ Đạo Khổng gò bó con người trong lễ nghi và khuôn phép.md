@@ -1,12 +1,3 @@
----
-title: ❕ Đạo Khổng gò bó con người trong lễ nghi và khuôn phép
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Đạo Khổng gò bó con người trong lễ nghi và khuôn phép
 
 ## Notes:

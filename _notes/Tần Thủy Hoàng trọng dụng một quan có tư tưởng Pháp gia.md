@@ -1,12 +1,3 @@
----
-title: Tần Thủy Hoàng trọng dụng một quan có tư tưởng Pháp gia
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Tần Thủy Hoàng trọng dụng một quan có tư tưởng Pháp gia
 
 ## Notes:

@@ -1,10 +1,3 @@
----
-title: Phaolo còn được gọi là tông đồ dân ngoại
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/fact'
-  - '#flashcards'
----
 # Phaolo còn được gọi là tông đồ dân ngoại
 
 ## Notes

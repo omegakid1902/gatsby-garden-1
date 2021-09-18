@@ -1,13 +1,3 @@
----
-title: Vận động thể chất
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Vận động thể chất
-  - Thể dục thể thao
----
 # Vận động thể chất
 
 ## Notes:

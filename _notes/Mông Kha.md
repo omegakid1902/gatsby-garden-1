@@ -1,12 +1,3 @@
----
-title: Mông Kha
-tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/people'
-  - '#flashcards'
-aliases:
-  - Mông Kha Hãn
----
 # Mông Kha
 
 ## Notes

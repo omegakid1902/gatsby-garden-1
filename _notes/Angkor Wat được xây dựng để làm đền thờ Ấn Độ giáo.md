@@ -1,12 +1,3 @@
----
-title: Angkor Wat được xây dựng để làm đền thờ Ấn Độ giáo
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Angkor Wat được xây dựng để làm đền thờ Ấn Độ giáo
 
 ## Notes:

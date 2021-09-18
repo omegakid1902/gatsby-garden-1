@@ -1,12 +1,3 @@
----
-title: Chất béo bão hòa làm tăng LDL Cholesterol
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Chất béo bão hòa làm tăng LDL Cholesterol
 
 ## Notes:

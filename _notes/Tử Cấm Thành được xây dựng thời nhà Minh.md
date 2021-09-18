@@ -1,12 +1,3 @@
----
-title: Tử Cấm Thành được xây dựng thời nhà Minh
-tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Tử Cấm Thành được xây dựng thời nhà Minh
 
 ## Notes:

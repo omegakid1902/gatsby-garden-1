@@ -1,13 +1,3 @@
----
-title: Phục Hi
-tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
-publish: True
----
 # Phục Hi
 
 ## Notes:

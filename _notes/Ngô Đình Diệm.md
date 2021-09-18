@@ -1,13 +1,3 @@
----
-title: Ngô Đình Diệm
-tags:
-  - '#created/2020/Dec/12'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Ngô Đình Diệm
-publish: True
----
 # Ngô Đình Diệm
 
 ## Notes

@@ -1,13 +1,3 @@
----
-title: Lý Bí
-tags:
-  - '#created/2021/Jul/06'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Lý Bôn
-  - Lý Nam Đế
----
 # Lý Bí
 
 ## Notes:

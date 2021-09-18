@@ -1,12 +1,3 @@
----
-title: Shell
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Shell
----
 # Shell
 
 ## Notes:

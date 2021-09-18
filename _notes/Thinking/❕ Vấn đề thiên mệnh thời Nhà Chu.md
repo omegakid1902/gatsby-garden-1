@@ -1,12 +1,3 @@
----
-title: ❕ Vấn đề thiên mệnh thời Nhà Chu
-tags:
-  - '#created/2021/Aug/28'
-  - '#garden🏡'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Vấn đề thiên mệnh thời Nhà Chu
 
 ## Notes:

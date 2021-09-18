@@ -1,12 +1,3 @@
----
-title: Chất béo chuyển hóa làm tăng LDL cholesterol
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Chất béo chuyển hóa làm tăng LDL cholesterol
 
 ## Notes:

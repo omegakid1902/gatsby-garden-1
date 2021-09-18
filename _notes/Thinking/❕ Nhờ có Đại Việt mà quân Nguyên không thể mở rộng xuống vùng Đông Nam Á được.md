@@ -1,9 +1,3 @@
----
-title: Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/think'
----
 # Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
 
 ## Notes

@@ -1,12 +1,3 @@
----
-title: Chế độ ăn Low Carb
-tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - Low Carb
----
 # Chế độ ăn Low Carb
 
 ## Notes:

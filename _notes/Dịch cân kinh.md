@@ -1,11 +1,3 @@
----
-title: Dịch cân kinh
-tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: [Dịch cân kinh, Dịch cân tẩy tủy kinh]
----
 # Dịch cân kinh
 
 ## Definition

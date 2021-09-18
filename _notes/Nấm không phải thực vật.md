@@ -1,12 +1,3 @@
----
-title: Nấm không phải thực vật
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/'
-aliases:
-  - 'NA'
----
 # Nấm không phải thực vật
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: ❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/think'
-aliases:
-  - 'NA'
----
 # ❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người
 
 ## Notes:

@@ -1,13 +1,3 @@
----
-title: Trần Cảnh
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - Trần Thái Tông
-publish: True
----
 # Trần Cảnh
 
 ## Notes:

@@ -1,12 +1,3 @@
----
-title: sh
-tags:
-  - '#created/2021/Aug/30'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - sh
----
 # sh
 
 ## Notes:

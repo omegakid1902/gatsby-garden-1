@@ -1,13 +1,3 @@
----
-title: Bức tường than khóc
-tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/concept'
-aliases:
-  - HaKotel HaMa'aravi
-  - Bức tường phía tây
----
 # Bức tường than khóc
 
 ## Notes:

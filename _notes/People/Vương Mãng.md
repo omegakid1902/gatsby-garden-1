@@ -1,12 +1,3 @@
----
-title: Vương Mãng
-tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/people'
-aliases:
-  - 'NA'
----
 # Vương Mãng
 
 ## Notes:

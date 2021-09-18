@@ -1,12 +1,3 @@
----
-title: npm tích hợp sẵn trong gói cài của Nodejs
-tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # npm tích hợp sẵn trong gói cài của Nodejs
 
 ## Notes:

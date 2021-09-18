@@ -1,12 +1,3 @@
----
-title: Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng
-tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/fact'
-aliases:
-  - 'NA'
----
 # Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng
 
 ## Notes:

@@ -1,15 +1,3 @@
----
-title: "Bảo Đại"
-tags:
-  - '#created/2021/Jul/17'
-  - '#permanent/people'
-  - '#flashcards'
-aliases: 
-  - "Bảo Đại"
-  - Vĩnh Thụy
-  - Nguyễn Phúc Vĩnh Thụy
-publish: True
----
 
 # Bảo Đại
 
