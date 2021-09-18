@@ -4,6 +4,8 @@ tags:
   - '#created/2021/Sep/11'
   - '#garden🏡'
   - '#permanent/concept'
+aliases:
+  - Interests
 publish: True
 ---
 # Interests 

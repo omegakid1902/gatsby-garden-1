@@ -4,6 +4,8 @@ tags:
   - '#created/2021/Jun/22'
   - '#garden🏡'
   - '#permanent/concept'
+aliases:
+  - Lịch Sử Việt Nam
 publish: True
 ---
 # Lịch Sử Việt Nam
@@ -17,7 +19,7 @@ publish: True
 | 968 - 980   | [[Nhà Đinh]]          |     |
 | 980 - 1009  | [[Nhà Tiền Lê]]       |     |
 | 1009 - 1225 | [[Nhà Lý]]            |     |
-| 1225–1400   | [[🏡 Nhà Trần]]        |     |
+| 1225–1400   | [[Nhà Trần]]        |     |
 | 1400–1407   | [[Nhà Hồ]]            |     |
 |             | [[Nhà Hậu Lê]]        |     |
 | 1428 – 1527 | [[Thời Lê sơ]]         |     |

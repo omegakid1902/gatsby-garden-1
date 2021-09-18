@@ -5,6 +5,7 @@ tags:
   - '#permanent/concept'
   - '#flashcards'
 aliases: 
+  - "Vườn không nhà trống"
   - Tiêu Thổ
 publish: True
 ---

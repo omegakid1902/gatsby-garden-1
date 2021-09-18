@@ -10,8 +10,11 @@ for root, dirs, files in os.walk("./_notes/"):
                 lines = f.readlines()
 
             with open(os.path.join(root, file), encoding="utf8", mode="w") as f:
-                for line in lines:
-                    if line.startswith("UID:") or line.startswith("birth:") or line.startswith("death:") or line.startswith("created:"):
+                for line_id in range(len(lines)):
+                    if lines[line_id].startswith("UID:") or lines[line_id].startswith("birth:") or lines[line_id].startswith("death:") or lines[line_id].startswith("created:"):
                         continue
 
-                    f.write(line)
+                    if lines[line_id].startswith("aliases:") and lines[line_id+1].startswith("  - ") and (len(lines[line_id+1]) < 6):
+                        lines[line_id+1] = "  - 'NA'\n"
+                        
+                    f.write(lines[line_id])
