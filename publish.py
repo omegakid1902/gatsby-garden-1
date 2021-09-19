@@ -10,7 +10,7 @@ for file in os.listdir("../zettelkasten/"):
             metadata, content = frontmatter.parse(content)
             if 'publish' in metadata.keys():
                 print("Copy publish files from zettelkasten to content/")
-                copy(os.path.join(dirname + "../zettelkasten/", file), './_notes/')
+                copy(os.path.join(dirname + "/../zettelkasten/", file), './_notes/')
             else:
                 pass
 
