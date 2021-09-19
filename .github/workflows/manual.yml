@@ -1,30 +1,83 @@
-# This is a basic workflow that is manually triggered
+name: Gatsby garden get
 
-name: Manual workflow
-
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
 on:
+#  push:
+    # Sequence of patterns matched against refs/heads
+#    branches:
+#      - main
+  repository_dispatch:
+    types: [update_zettelkasten]
   workflow_dispatch:
     # Inputs the workflow accepts.
     inputs:
       name:
-        # Friendly description to be shown in the UI instead of 'name'
-        description: 'Person to greet'
-        # Default value if no value is explicitly provided
+        description: 'Manual build'
         default: 'World'
-        # Input has to be provided for the workflow to run
         required: true
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "greet"
-  greet:
-    # The type of runner that the job will run on
+  deploy:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Runs a single command using the runners shell
-    - name: Send greeting
-      run: echo "Hello ${{ github.event.inputs.name }}"
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7.7
+          architecture: x64
+
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install dependencies
+        run: |
+          pip install python-frontmatter
+          pip install pip-tools
+
+      - name: Clone zettelkasten
+        run: |
+          cd ..
+          git clone https://github.com/omegakid1902/zettelkasten.git
+
+      - uses: actions/checkout@v2
+
+      - name: Scan md file to publish
+        run: |
+          rm -rf _notes/
+          python publish.py
+          python publish_clear_front.py
+
+#      - name: Install gatsby-cli
+#        run: |
+#          npm -v
+#          npm install -g gatsby-cli
+#
+      - name: Commit report
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ./_notes/
+          echo "$(date '+%Y-%m-%d %H:%M:%S')-build.${{ github.run_number }}: update_zettelkasten" >> build.log
+          git add build.log
+          git diff-index --quiet HEAD \
+            || git commit -m "gh-pages build number #${{ github.run_number }}"
+          git push origin main
+
+      - uses: enriikke/gatsby-gh-pages-action@v2
+        with:
+          access-token: ${{ secrets.GATSBY_1_SECRET }}
+          deploy-branch: gh-pages
+          git-config-name: 'github-actions[bot]'
+          git-config-email: 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Alert repository_dispatch to omegakid1902.github.io repo
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.GATSBY_1_SECRET }}
+          repo: omegakid1902.github.io
+          owner: omegakid1902
+          event_type: publish_gatsby_garden
