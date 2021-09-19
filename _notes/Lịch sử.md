@@ -1,3 +1,6 @@
+---
+title: Lịch sử
+---
 # Lịch sử
 
 ## Notes:

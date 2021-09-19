@@ -1,3 +1,6 @@
+---
+title: Đổng Trác
+---
 # Đổng Trác
 
 ## Notes:

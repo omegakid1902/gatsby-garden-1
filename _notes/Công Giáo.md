@@ -1,3 +1,6 @@
+---
+title: Công Giáo
+---
 # Công Giáo
 
 ### Định nghĩa

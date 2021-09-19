@@ -1,3 +1,6 @@
+---
+title: Nhà Nguyên
+---
 # Nhà Nguyên
 
 ## Definition

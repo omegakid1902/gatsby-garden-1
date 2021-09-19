@@ -1,3 +1,6 @@
+---
+title: Lịch sử Trung Quốc
+---
 # Lịch sử Trung Quốc
 
 ## Các triều đại
@@ -61,8 +64,4 @@
 [[Hồng Tú Toàn]]
 
 ## Related:
-```dataview
-list
-from [[Lịch sử Trung Quốc]]
-sort file.name asc
-```
+

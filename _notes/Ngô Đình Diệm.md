@@ -1,3 +1,6 @@
+---
+title: Ngô Đình Diệm
+---
 # Ngô Đình Diệm
 
 ## Notes

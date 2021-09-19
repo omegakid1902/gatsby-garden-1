@@ -1,3 +1,6 @@
+---
+title: Đế Nghiêu
+---
 # Đế Nghiêu
 
 ## Notes:

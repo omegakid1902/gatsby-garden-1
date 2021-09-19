@@ -1,3 +1,6 @@
+---
+title: Thuyết Ưu Sinh
+---
 # Thuyết Ưu Sinh
 
 ## Notes:

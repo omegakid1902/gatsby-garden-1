@@ -1,7 +1,9 @@
+---
+title: Trần Quang Khải
+---
 # Trần Quang Khải
 
 ## Notes:
-
 
 ## Ideas & thoughts:
 [[Trần Hưng Đạo và Trần Quang Khải là hai anh em họ]]

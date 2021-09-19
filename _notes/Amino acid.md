@@ -1,3 +1,6 @@
+---
+title: "Amino acid"
+---
 
 # Amino acid
 

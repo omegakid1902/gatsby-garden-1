@@ -1,3 +1,6 @@
+---
+title: "Chiến tranh Nguyên Mông - Đại Việt lần 1"
+---
 # Chiến tranh Nguyên Mông - Đại Việt lần 1
 
 ## Notes

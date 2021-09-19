@@ -1,3 +1,6 @@
+---
+title: ~Âu Lạc
+---
 # Âu Lạc
 
 ## Notes
