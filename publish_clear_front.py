@@ -20,6 +20,8 @@ for root, dirs, files in os.walk("./_notes/"):
                         new_front.append("---\n")
                         new_front.append(lines[line_id])
                         new_front.append("---\n")
+                    if lines[line_id].startswith("source"):
+                        print(file)
                         
                 start = 0
                 if len(idxs) > 1 and idxs[0] == 0:
