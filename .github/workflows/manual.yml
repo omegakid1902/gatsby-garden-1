@@ -64,7 +64,7 @@ jobs:
           echo "$(date '+%Y-%m-%d %H:%M:%S')-build.${{ github.run_number }}: update_zettelkasten" >> build.log
           git add build.log
           git diff-index --quiet HEAD \
-            || git commit -m "gh-pages build number #${{ github.run_number }}"
+            || git commit -m "gh-pages build number ${{ github.run_number }}"
           git push origin main
 
       - uses: enriikke/gatsby-gh-pages-action@v2
