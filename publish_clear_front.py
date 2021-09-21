@@ -27,8 +27,8 @@ for root, dirs, files in os.walk("./_notes/"):
                 if len(idxs) > 1 and idxs[0] == 0:
                     start = idxs[1] + 1
                 
-                for i in new_front:
-                    f.write(i)
+                #for i in new_front:
+                    #f.write(i)
 
                 for i in range(start, len(lines)):
                     f.write(lines[i])
