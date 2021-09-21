@@ -45,11 +45,11 @@ jobs:
 
       - uses: actions/checkout@v2
 
-      - name: Scan md file to publish
-        run: |
-          rm -rf _notes/
-          python publish.py
-          python publish_clear_front.py
+#      - name: Scan md file to publish
+#        run: |
+#          rm -rf _notes/
+#          python publish.py
+#          python publish_clear_front.py
 
 #      - name: Install gatsby-cli
 #        run: |
