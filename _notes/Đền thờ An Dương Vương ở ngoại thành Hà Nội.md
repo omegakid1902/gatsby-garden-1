@@ -1,6 +1,3 @@
----
-title: Đền thờ An Dương Vương ở ngoại thành Hà Nội
----
 # Đền thờ An Dương Vương ở ngoại thành Hà Nội
 
 ## Notes

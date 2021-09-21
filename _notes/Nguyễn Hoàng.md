@@ -1,6 +1,3 @@
----
-title: Nguyễn Hoàng
----
 # Nguyễn Hoàng
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-title: Phục Hi
----
 # Phục Hi
 
 ## Notes:

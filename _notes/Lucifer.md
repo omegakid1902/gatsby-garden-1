@@ -1,6 +1,3 @@
----
-title: Lucifer
----
 # Lucifer
 
 ## Notes:

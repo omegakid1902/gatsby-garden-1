@@ -1,6 +1,3 @@
----
-title: Bill Gates
----
 # Bill Gates
 
 ## Notes:

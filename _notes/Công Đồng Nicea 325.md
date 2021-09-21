@@ -1,6 +1,3 @@
----
-title: Công Đồng Nicea 325
----
 # Công Đồng Nicea 325
 
 ## Notes:

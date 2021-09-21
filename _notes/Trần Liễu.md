@@ -1,6 +1,3 @@
----
-title: Trần Liễu
----
 # Trần Liễu
 
 ## Notes:

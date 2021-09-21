@@ -1,6 +1,3 @@
----
-title: Đế Thuấn
----
 # Đế Thuấn
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-title: Toán học
----
 # Toán học
 
 

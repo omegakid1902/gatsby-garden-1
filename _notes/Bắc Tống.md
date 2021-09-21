@@ -1,6 +1,3 @@
----
-title: Bắc Tống
----
 # Bắc Tống
 
 ## Notes:

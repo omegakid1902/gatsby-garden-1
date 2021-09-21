@@ -1,6 +1,3 @@
----
-title: Bill Gates và các vấn đề vaccine
----
 # Bill Gates và các vấn đề vaccine
 
 ## Notes:

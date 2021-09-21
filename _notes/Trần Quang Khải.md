@@ -1,6 +1,3 @@
----
-title: Trần Quang Khải
----
 # Trần Quang Khải
 
 ## Notes:

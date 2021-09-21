@@ -1,6 +1,3 @@
----
-title: Trần Cảnh
----
 # Trần Cảnh
 
 ## Notes:

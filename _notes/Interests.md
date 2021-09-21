@@ -1,6 +1,3 @@
----
-title: Interests
----
 # Interests 
 
 ### Knowledge Management

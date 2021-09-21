@@ -1,6 +1,3 @@
----
-title: Nhà Tây Sơn
----
 # Nhà Tây Sơn
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-title: Nhà Nguyên - Mông
----
 # Nhà Nguyên
 
 ## Definition

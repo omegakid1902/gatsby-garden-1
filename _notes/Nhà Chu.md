@@ -1,6 +1,3 @@
----
-title: Nhà Chu
----
 # Nhà Chu
 
 ## Notes:

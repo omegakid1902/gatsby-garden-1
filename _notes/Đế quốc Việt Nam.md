@@ -1,6 +1,3 @@
----
-title: Đế quốc Việt Nam
----
 # Đế quốc Việt Nam
 
 ## Notes

@@ -1,6 +1,3 @@
----
-title: Chúa Trịnh
----
 # Chúa Trịnh
 
 ## Notes:

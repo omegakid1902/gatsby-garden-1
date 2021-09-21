@@ -1,6 +1,3 @@
----
-title: Francis Galton là em họ của Charles Darwin
----
 # Francis Galton là em họ của Charles Darwin
 
 ## Notes:

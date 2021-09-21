@@ -1,6 +1,3 @@
----
-title: Chúa Nguyễn
----
 # Chúa Nguyễn
 
 ## Notes

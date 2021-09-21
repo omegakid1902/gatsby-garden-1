@@ -1,6 +1,3 @@
----
-title: Nhà Thương
----
 # Nhà Thương
 
 ## Notes:

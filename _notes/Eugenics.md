@@ -1,6 +1,3 @@
----
-title: Eugenics
----
 # Eugenics
 
 ## Notes:

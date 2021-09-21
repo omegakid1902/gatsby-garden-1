@@ -1,6 +1,3 @@
----
-title: QAnon map
----
 # QAnon map
 
 ## Notes:

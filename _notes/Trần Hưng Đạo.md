@@ -1,6 +1,3 @@
----
-title: Trần Hưng Đạo
----
 # Trần Hưng Đạo
 
 ## Notes:

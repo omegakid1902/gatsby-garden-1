@@ -1,6 +1,3 @@
----
-title: Nhà Trần
----
 
 ---
 title: Nhà Trần

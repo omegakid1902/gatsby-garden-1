@@ -1,6 +1,3 @@
----
-title: Nhà Tần
----
 # Nhà Tần
 
 ## Notes

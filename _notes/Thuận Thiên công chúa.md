@@ -1,6 +1,3 @@
----
-title: Thuận Thiên công chúa
----
 # Thuận Thiên công chúa
 
 ## Notes:

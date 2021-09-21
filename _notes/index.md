@@ -1,6 +1,3 @@
----
-title: index
----
 # index
 
 - [[Enter the garden]]

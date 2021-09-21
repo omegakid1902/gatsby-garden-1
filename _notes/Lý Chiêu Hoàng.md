@@ -1,6 +1,3 @@
----
-title: Lý Chiêu Hoàng
----
 # Lý Chiêu Hoàng
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-title: Lịch sử Trung Quốc
----
 # Lịch sử Trung Quốc
 
 ## Các triều đại

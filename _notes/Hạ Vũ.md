@@ -1,6 +1,3 @@
----
-title: Hạ Vũ
----
 # Hạ Vũ
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-title: Lã Bố
----
 # Lã Bố
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-title: Tổng lãnh thiên thần Michael
----
 # Tổng lãnh thiên thần Michael
 
 ## Notes:

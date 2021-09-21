@@ -1,6 +1,3 @@
----
-title: Vườn không nhà trống
----
 # Vườn không nhà trống
 
 ## Definition

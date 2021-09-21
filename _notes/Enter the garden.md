@@ -1,6 +1,3 @@
----
-title: Enter the garden
----
 # Enter the garden
 
 Chào mừng bạn đã đến với khu vườn ghi chú.

@@ -1,6 +1,3 @@
----
-title: Lịch Sử Việt Nam
----
 # Lịch Sử Việt Nam
 
 ## Thời kỳ lịch sử

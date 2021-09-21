@@ -1,6 +1,3 @@
----
-title: Nhà Nguyễn
----
 # Nhà Nguyễn
 
 ## Note

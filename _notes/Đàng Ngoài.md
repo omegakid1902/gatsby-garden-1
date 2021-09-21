@@ -1,6 +1,3 @@
----
-title: Đàng Ngoài
----
 # Đàng Ngoài
 
 ## Notes:

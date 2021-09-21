@@ -1,6 +1,3 @@
----
-title: QAnon
----
 # QAnon
 
 ## Notes:

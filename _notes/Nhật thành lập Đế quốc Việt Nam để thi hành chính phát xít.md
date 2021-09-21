@@ -1,6 +1,3 @@
----
-title: Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít
----
 # Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít
 
 ## Notes

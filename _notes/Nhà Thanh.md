@@ -1,6 +1,3 @@
----
-title: Nhà Thanh
----
 # Nhà Thanh
 
 

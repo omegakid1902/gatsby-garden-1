@@ -1,6 +1,3 @@
----
-title: Tần Thủy Hoàng
----
 
 ---
 title: Tần Thủy Hoàng

@@ -1,6 +1,3 @@
----
-title: Xích Thố
----
 # Xích Thố
 
 ## Notes:

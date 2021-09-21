@@ -1,6 +1,3 @@
----
-title: Language
----
 # Language
 
 - [[Words MOC]]

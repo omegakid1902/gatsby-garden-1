@@ -1,6 +1,3 @@
----
-title: Sample multi files rename in total commander
----
 # Sample multi files rename in total commander
 
 ## Notes:

@@ -1,6 +1,3 @@
----
-title: Thời Lê sơ
----
 # Thời Lê sơ
 
 ## Notes:

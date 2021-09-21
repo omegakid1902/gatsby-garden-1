@@ -1,6 +1,3 @@
----
-title: Donald J. Trump
----
 # Donald J. Trump
 
 ## Notes:

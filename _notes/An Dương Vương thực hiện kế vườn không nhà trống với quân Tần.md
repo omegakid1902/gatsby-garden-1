@@ -1,6 +1,3 @@
----
-title: An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
----
 # An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
 
 - metadata

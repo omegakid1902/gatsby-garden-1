@@ -1,6 +1,3 @@
----
-title: Các chế độ nhịn ăn
----
 # Các chế độ nhịn ăn
 
 ## Notes:

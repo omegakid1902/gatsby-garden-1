@@ -1,6 +1,3 @@
----
-title: Chiến tranh trên Thiên Đàng
----
 # Chiến tranh trên Thiên Đàng
 
 ## Notes:

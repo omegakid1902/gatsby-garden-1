@@ -1,6 +1,3 @@
----
-title: Nhà Hậu Hán
----
 # Nhà Hậu Hán
 
 ## Definition
